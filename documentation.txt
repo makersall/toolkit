@@ -3,3 +3,4 @@
 Layouts:
 content: for basic pages of content in the toolkit. Can optionally include an image
 summary: for pages that summarize/outline an argument, strategy, etc., primarily using small amounts of text plus lots of links
+
