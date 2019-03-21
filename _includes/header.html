@@ -20,7 +20,7 @@
         <div class="trigger">
           {% for menu_item in site.navigation_links %}
 
-            <a class="page-link" href="{{ menu_item.link  }}">{{ menu_item.name }}</a>
+            <a class="page-link" href="{{ menu_item.link | absolute_url }}">{{ menu_item.name }}</a>
 
           {%- endfor -%}
         </div>
