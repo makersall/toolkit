@@ -8,6 +8,20 @@ description: > # this means to ignore newlines until "show_exerpts:"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+# Menu data for sitewide navigation
+navigation_links:
+  - name: About
+    link: 'about/'
+  - name: Intro
+    link: '/pages/intro/intro.html'
+  - name: Strategies
+    link: '/pages/strategies.html'
+  - name: Take Action
+    link: '/pages/action/index.html'
+  - name: Makers All
+    link: 'https://makersall.org'
+
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
