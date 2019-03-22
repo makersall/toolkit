@@ -53,6 +53,7 @@ Bringing UX to coding might sound like a lot of work, but it doesn't have to be.
 > - Ask the users to perform representative tasks with the design.
 > - Observe what the users do, where they succeed, and where they have difficulties with the user interface.
 > ...
+> 
 > To identify a design's most important usability problems, __testing 5 users is typically enough. Rather than run a big, expensive study__, it's a better use of resources to __run many small tests__ and revise the design between each one so you can fix the usability flaws as you identify them. Iterative design is the best way to increase the quality of user experience. The more versions and interface ideas you test with users, the better (emphasis added).
 
 UX can be a complex, labor-intensive practice. But even a small amount smartly done can make a big difference.

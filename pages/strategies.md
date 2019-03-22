@@ -5,8 +5,11 @@ title: Three Strategies for Truly Democratizing Emerging Tech
 ---
 
 - [Smooth the Learning Curve](30-smooth/00-index.html)
+- Create a [Community-Based Ecosystem of Support](50-support/00-index.html)
+- Integrate Tech Training and [Civic Engagement Training](70-civic/00-index.html)
 
 (NOTE: right now, just a placeholder)
+
 
 
 
