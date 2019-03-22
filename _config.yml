@@ -13,11 +13,11 @@ navigation_links:
   - name: About
     link: 'about/'
   - name: Intro
-    link: '/pages/intro/intro.html'
+    link: '/pages/10-intro/00-index.html'
   - name: Strategies
     link: '/pages/strategies.html'
-  - name: Take Action
-    link: '/pages/action/index.html'
+  - name: Make It Happen
+    link: '/pages/90-organize/00-index.html'
   - name: Makers All
     link: 'https://makersall.org'
 

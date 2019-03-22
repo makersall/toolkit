@@ -1,1 +1,2 @@
-Figure out where to put the toolkit's content where I can both get to it and where it won't end up in the top level menu
+
+- Fix caveats and scope so it links to Part 3 and the Conclusion
