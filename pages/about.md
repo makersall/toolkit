@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: content
 title: About
 permalink: /about/
+image: 'painted-hands-1332840-pxh.jpg'
 ---
 
 Interested in learning about, trying out, or implementing some or all of Makers All's strategies? This toolkit can help you out.
