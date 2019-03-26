@@ -4,3 +4,37 @@ Layouts:
 content: for basic pages of content in the toolkit. Can optionally include an image
 summary: for pages that summarize/outline an argument, strategy, etc., primarily using small amounts of text plus lots of links
 
+
+
+
+display: grid;
+  grid-template-columns: 80px 200px auto 40px;
+
+.container { grid-template-columns: 1fr 50px 1fr 1fr; }
+
+grid-template-columns: minmax(100px, 1fr) 2fr;
+grid-column-gap
+———-
+Home page:
+different layout depending on if it’s a smart phone or iPad/PC
+Why: I’m making a case
+https://gridbyexample.com/examples/code/layout2.html
+
+Strategy & other summary pages:
+Grid, like Vox, the guardian
+2 columns— text is 3 short lines
+Maybe:
+Article
+Image
+Header
+Content
+
+Articles:
+pix
+text
+
+
+On dealing w ie, 2018:
+The most common use case for using IE’s implicit grid is using it to generate your rows for you. If you want all the rows in the grid to have their height dictated by the height of their content, you do not need to bother defining -ms-grid-rows (the IE version of grid-template-rows). The rows will automatically be generated for you in IE when placing your grid cells.
+
+
