@@ -14,15 +14,15 @@ display: grid;
 
 grid-template-columns: minmax(100px, 1fr) 2fr;
 grid-column-gap
-———-
+ï¿½ï¿½ï¿½-
 Home page:
-different layout depending on if it’s a smart phone or iPad/PC
-Why: I’m making a case
+different layout depending on if itï¿½s a smart phone or iPad/PC
+Why: Iï¿½m making a case
 https://gridbyexample.com/examples/code/layout2.html
 
 Strategy & other summary pages:
 Grid, like Vox, the guardian
-2 columns— text is 3 short lines
+2 columnsï¿½ text is 3 short lines
 Maybe:
 Article
 Image
@@ -35,6 +35,29 @@ text
 
 
 On dealing w ie, 2018:
-The most common use case for using IE’s implicit grid is using it to generate your rows for you. If you want all the rows in the grid to have their height dictated by the height of their content, you do not need to bother defining -ms-grid-rows (the IE version of grid-template-rows). The rows will automatically be generated for you in IE when placing your grid cells.
+The most common use case for using IEï¿½s implicit grid is using it to generate your rows for you. If you want all the rows in the grid to have their height dictated by the height of their content, you do not need to bother defining -ms-grid-rows (the IE version of grid-template-rows). The rows will automatically be generated for you in IE when placing your grid cells.
 
 
+
+
+------
+
+For summary pages, I decided not to try to auto generate them using front matter. I'm nervous about having code where if it breaks,
+all of the links that move you around site would stop working. It's and I think I'm going to want organically grow
+how the summary pages work, so I don't want to lock myself in. But if I do want to go back to trying it, here's the test code:
+
+chapters:
+  - name: Create a Culture of Community-Oriented Coding UX
+    link: '10-culture-community-coding-UX.html'
+    image: 'painted-hands-1332840-pxh.jpg'
+  - name: Create a Continuum of Skill
+    link: '20-continuum-skill.html'
+    image: 'paint-brushes-1366198-pxh.jpg'
+
+---
+
+{% for chapter in page.chapters %}
+<article><img src="{{'/assets/images/' | append:  chapter.image | relative_url }}"  style= "width: 200px; height: auto;">
+<a href="{{ chapter.link }}">{{chapter.name}}</a>
+</article>
+{%- endfor -%}
