@@ -3,12 +3,17 @@ layout: content
 title: 'Lessons from Our Past: Cooperative Extension Services and Citizenship Schools'
 # image:
 ---
-## Cooperative Extension Services
-In the late 19th and early 20th century, the US faced a similarly daunting task. A modern society can't function unless farmers are productive enough so they can feed the vast majority of people who no longer work the land. To pull off this agricultural revolution, millions of farmers had to master new skills and knowledge --  the key elements of soil science, plant science, entomology, and a wide range of other information and practices that made up modern farming practices. 
+## The Agricultural Challenge
+This isn't the first time we've faced the daunting task of training millions of adults to master a complex technological skill. 
+In the late 19th and early 20th century, the US faced a similar challenge to the one posed by Emerging Tech today. 
+
+A modern society can't function unless farmers are productive enough so they can feed the vast majority of people who no longer work the land. To pull off this agricultural revolution, millions of farmers had to master new skills and knowledge --  the key elements of soil science, plant science, entomology, and a wide range of other information and practices that made up modern farming practices. 
 
 Just like efforts to democratize tech today, the first few attempts to solve this problem fell short. Eventually, the US succeeded by creating a community-oriented approach called Cooperative Extension Services, aka Extension Services.
 
-Cooperative Extension Services were successful because they created a rich web of support to help farmers make the transformation to modern farming. In doing so, they employed 4 strategies:
+## Extension Services
+
+Extension Services were successful because they created a rich web of support to help farmers make the transformation to modern farming. In doing so, they employed 4 strategies:
 
 - __Focus on Communities, Not Just Individuals__. Most of today's efforts at democratizing tech are focused on individuals. And although this approach has some advantages, it often ends up masking the fact these efforts are creating opportunities in some communities but not others. Extension Services used a community-oriented approach which asked whether communities, not just individuals, were succeeding in adopting modern agricultural practices.
 - __Harness the Power of Community__. As we'll see in Part 2, by being deeply embedded in communities, Extension Services was able to leverage a community's assets, including the bonds of friendship and support among farmers, to have a far greater impact than they otherwise could have. Without drawing on each community's strengths, it's doubtful that Extension Services could have succeeded.
@@ -37,9 +42,4 @@ As we will see in [Part 3](../70-civic/00-index.html), Citizenship Schools playe
 Where Citizenship Schools differed from Extension Services is that Citizenship Schools were deeply rooted in civic literacy and activism. While some traditions of Extension Services were grounded in civic engagement, Citizenship Schools were designed from the ground up to help their students learn how to fight for their freedom and for their community. In addition to teaching basic literacy, Citizenship Schools taught their students the civic skills necessary to win the struggle for voting rights as well as to understand the nuts and bolts of how the political system worked so students could use political campaigns and community organizing to make their voices count. 
 
 When the Internet first took off, it was sold as a tool for empowering everyone; instead, it became one critical foundation of an economy where communities from Harlem to Harlan County were left behind. If we don't want to repeat that mistake, we must ensure that every community has a seat at the table -- and to do that, we'll need to draw on the lessons of Citizenship Schools. Only by ensuring that there are enough people in every community who understand both how to code and how to fight for their community's future can we be confident that emerging tech opportunities will be accessible in every community and that every community will have a real say in who benefits from this new economy. 
-
-## Letting Go of Fear
-Ultimately, the most important lesson we can learn from Extension Services and Citizenship Schools is that we need to stop being afraid to think big.
-
-We have a rare opportunity to make more emerging tech jobs more accessible today and to create a better future for all tomorrow. But to seize it, we need to think boldly, dream, and then act on a large enough scale to realize those dreams.
 

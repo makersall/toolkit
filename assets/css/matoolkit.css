@@ -7,6 +7,10 @@
   }
 
 
+.main-image {
+  padding-bottom: 20px;
+} 
+
 .image {
   grid-area: image;
 }

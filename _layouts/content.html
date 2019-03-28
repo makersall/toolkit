@@ -8,8 +8,9 @@ layout: default
   </header>
 
   {%- if page.image -%}
-    <img src="{{'/assets/images/' | append:  page.image | relative_url }}
-    ">
+  <div class="main-image">
+    <img src="{{'/assets/images/' | append:  page.image | relative_url }} ">
+  </div>  
   {%- endif -%}
 
 
