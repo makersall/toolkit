@@ -1,10 +1,10 @@
 ---
 layout: content
-title: FAQ
+title: Frequently Asked Questions
 image: 'paint-brushes-1366198-pxh.jpg'
 ---
 
-## Isn't Coding Too Hard to Expect Most People to Do It?
+### Isn't Coding Too Hard to Expect Most People to Do It?
 
 Today, there's no way to know how many people could become skilled enough at coding to make a living either as a full-fledged developer or a power user or blue-collar coder. The reason we can't yet answer the question is that we haven't tried with the degree of commitment and the amount of resources necessary to find out.
 
@@ -19,7 +19,7 @@ The real issue isn't whether coding is hard, it's whether we can break down codi
 
 Finally, it's worth keeping in mind that the goal of Makers All isn't to train all adults to become coders. Not everyone is going to become a programmer or designer. The goal is to train enough people in every community so that a big enough slice of the wealth created by emerging tech is invested in every community so it can act as a foundation for ensuring all communities prosper.
 
-## Extension Services Was Helping People Who Already Knew How to Farm. Isn't That Much Easier Than Teaching People How to Code from Scratch?
+### Extension Services Was Helping People Who Already Knew How to Farm. Isn't That Much Easier Than Teaching People How to Code from Scratch?
 
 It's easy from our vantage point to assume that farming is basically farming and that if you already know the basics of farming, learning modern agricultural techniques wasn't that great a leap. But history shows otherwise.
 

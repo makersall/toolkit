@@ -12,7 +12,7 @@ show_excerpts: false # set to true to show excerpts on the homepage
 navigation_links:
   - name: About
     link: 'about/'
-  - name: Intro
+  - name: Overview
     link: '/pages/10-intro/00-index.html'
   - name: Strategies
     link: '/pages/strategies.html'
