@@ -3,6 +3,48 @@ layout: page
 title: Pixes
 permalink: /pix/
 pictures:
+  - Getting Started 
+  - https://pxhere.com/en/photo/1402678
+  - Intro Threat robots
+  - https://pxhere.com/en/photo/427160
+  - For spectrum of skill 
+  - https://pxhere.com/en/photo/886135
+  - https://pxhere.com/en/photo/870794
+  - https://pxhere.com/en/photo/690223
+  - https://pxhere.com/en/photo/1002518
+  - https://pxhere.com/en/photo/1445895
+  - https://pxhere.com/en/photo/926209
+  - https://pxhere.com/en/photo/744919
+  - https://pxhere.com/en/photo/345220
+  - https://pxhere.com/en/photo/1449015
+  - https://pxhere.com/en/photo/992998
+  - Also work & training
+  - https://pxhere.com/en/photo/1002518
+  - Community support ecosystem 
+  - https://pxhere.com/en/photo/597586
+  - Elephant
+  - https://pxhere.com/en/photo/1081086
+  - Many toy gears 
+  - https://pxhere.com/en/photo/1170441
+  - Duckies in cup
+  - https://pxhere.com/en/photo/577337
+  - Bad UX
+  - https://pxhere.com/en/photo/140106
+  - Toy dinosaurs
+  - https://pxhere.com/en/photo/1451431
+  - https://pxhere.com/en/photo/1447337
+  - Digital fabrication / creative works 
+  - https://pxhere.com/en/photo/740812
+  - A little more artsy, more on the same theme as the butterfly:
+  - https://pxhere.com/en/photo/664855
+  - A little more literal:
+  - https://pxhere.com/en/photo/70998
+  - https://pxhere.com/en/photo/587824
+  - https://pxhere.com/en/photo/637015
+  - For community-oriented UX
+  - https://pxhere.com/en/photo/520246
+  - https://pxhere.com/en/photo/666525 
+  - https://pxhere.com/en/photo/666530
   - yes 
   - https://pxhere.com/en/photo/1366198
   - https://pxhere.com/en/photo/427160

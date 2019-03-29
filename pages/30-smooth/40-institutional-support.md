@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Create Institutional Support For Coding UX
-# image:
+image: tiered-landscape-mother-child-1179910-pxh.jpg
 ---
 Say you work at a small startup or a big tech company and you're frantically racing to build the first version of a new emerging tech library. You want to democratize your tech and you care about the community. But you can barely keep your head above water. How would you find the bandwidth to take on community-oriented coding UX or creating a continuum of skill? Where would you even start?
 

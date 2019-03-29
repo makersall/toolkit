@@ -1,66 +1,21 @@
 ---
 layout: summary
-title: Smooth the Learning Curve
-# image:
+title: 'Strategy #1: Smooth the Learning Curve'
+image: tiered-landscape-70998-pxh.jpg
+image-width: '60%'
 ---
-Most efforts at democratizing emerging tech focus on training people to use the tech as it is.  But learning to code is too hard for us to train enough people to make a big difference. We need to do for emerging tech coding what Extension Services did for agriculture tech: make it much easier for everyday adults to learn.
+Why does training lots of people to become coders seem like Mission Impossible? Because right now, coding can be painfully hard to learn. But that's not a feature, it's a bug.
 
-We already have the techniques to do it: user experience design (UX).  In the worlds of web and mobile, UX has had a profound impact on how designers work.  But when it comes the coding languages and frameworks that are used to build those websites and apps? Not so much.
+The techniques to make coding easier already exist: user experience design (UX). UX is routinely used to make websites and apps easier to use and to entice users to buy more junk or spend more time clicking the Like button.  But when it comes the coding languages and frameworks that are used to build those websites and apps? Not so much.
 
-If we're going to democratize emerging tech, we need to use UX in a community-oriented way to smooth the learning curve for programming.
+We need to do for emerging tech coding what Extension Services did for ag tech: make it a top priority to design it so it's easier for everyday adults to learn. Here's how:
 
+1. [Overview](05-why.html): (Need some text here that explains what I'm covering in the intro)
 
-<div class="article-summaries">
+2. [Embrace Community-Oriented Coding UX](10-culture-community-coding-UX.html) so we expand coding beyond the people who already find it easy to learn. Focus on the needs of everyday adults by creating collaborations between tech companies and community groups to improve coding UX. And in doing so, create coding UX expertise in the community that can lead to jobs or small businesses
 
-<div class="article-summary">
-<div class="image"><img src="{{ "assets/images/paint-brushes-1366198-pxh.jpg" | relative_url }}">
-</div>
-<div class="content">
-<header> <a href="05-why-how-smooth-curve.html">Introduction</a></header>
-<ul>
-<li>What is the problem we need to solve?</li>
-<li>Expand coding beyond people who already find it easy to learn (self-selection bias)</li>
-<li>What is UX and how you do it?</li>
-</ul>
-</div></div>
+3. [Create a Continuum of Skill](20-continuum-skill.html) from beginners to power users to "blue-collar coders" to skilled developers, so there are more opportunities to get into the industry. Then use coding UX to smooth the learning curve along that continuum. And along the way, strive to turn all types of coders from tool users to tool makers; as the report argues in "Hip-Hop Wasn't Created by Sound Engineers," you don't always need to be a rocket scientist to power innovation
 
+4. [Get Coding UX Research Out Of Its Silo](30-evangelize-research.html) so breakthrough techniques get out of the lab and into the hands of the coders who are creating and maintaining programming languages and frameworks
 
-<div class="article-summary">
-<div class="image">
-<img src="{{ "/assets/images/painted-hands-1332840-pxh.jpg" | relative_url }}">
-</div>
-<div class="content">
-<header> <a href=" 10-culture-community-coding-UX.html">Create a Culture of Community-Oriented Coding UX</a></header>
-<ul>
-<li>Help tech companies and community groups work together to improve coding UX </li>
-<li>Create coding UX expertise in the community that can lead to jobs or small businesses</li>
-</ul>
-</div></div>
-
-
-
-</div> <!-- end article-summaries -->
-
-[Create a Continuum of Skill](20-continuum-skill.html)
-Create a continuum from power users to "blue-collar coders" to skilled developers, and smooth that learning curve
-Transform people from tool users to tool makers -- and remember that "Hip-Hop Wasn't Created by Sound Engineers"
-
-[Evangelize Breakthrough Research](30-evangelize-research.html) on Coding UX
-Get coding UX research into the hands of coders who are creating &amp; maintaining programming languages and frameworks
-
-Create [Institutional Support](40-institutional-support) For Coding UX
-To make coding UX sustainable, get Big Tech companies, VC, universities, and foundations to support it
-
-
-
-
-
-
-<!-- <div class="test">
-<div class="my-box a">A</div>
-<div class="my-box b">B</div>
-<div class="my-box c">C</div>
-<div class="my-box d">D</div>
-<div class="my-box e">E</div>
-<div class="my-box f">F</div>
-</div> -->
+5. [Create Institutional Support For Coding UX](40-institutional-support), particularly in Big Tech companies, VC, universities, and foundations

@@ -2,9 +2,9 @@
 layout: home
 ---
 
-<img src="{{ "assets/images/Makers-All-Butterfly.png" | relative_url }}" style="float: right; width: 30%; height: auto;">
+<img src="{{ "assets/images/Makers-All-Butterfly.png" | relative_url }}" style="float: right; width: 40%; height: auto;">
 <h1>The Makers All Toolkit</h1>
-<p style="font-size: 125%;">How to help Communities Transform Emerging Tech so They Can Shape Their Destinies<br/></p>
+<p style="font-size: 125%;">How to Help Communities<br/> Transform Emerging Tech<br/> So They Can Shape <br/>Their Destinies<br/></p>
 <div style="clear: both; padding-bottom: 50px;"></div>
 
 ## [The Threat and the Opportunity](pages/10-intro/10-threat-opportunity.html)

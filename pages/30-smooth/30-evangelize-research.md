@@ -1,7 +1,8 @@
 ---
 layout: content
 title: Evangelize Breakthrough Research on Coding UX
-# image:
+image: tiered-landscape-cool-1292416-pxh.jpg
+# image: cool-tunnel-147085-pxh.jpg
 ---
 The following are [some examples](https://www.youtube.com/watch?v=mkzHIhKaUX4) of what researchers in University of Washington's Code & Cognition Lab have cooked up to make coding more accessible to all: 
 

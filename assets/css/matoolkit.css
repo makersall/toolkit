@@ -11,6 +11,10 @@
   padding-bottom: 20px;
 } 
 
+/* .summary-image {
+    padding-bottom: 20px;
+  } */
+
 .image {
   grid-area: image;
 }

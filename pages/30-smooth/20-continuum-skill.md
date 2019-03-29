@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Create a Continuum of Skill
-# image:
+image: tiered-landscape-houses-70963-pxh.jpg
 ---
 So far, we've focused on making the skills of a full-blown developer as accessible as possible.  But is that level of skill really necessary for every job?
 

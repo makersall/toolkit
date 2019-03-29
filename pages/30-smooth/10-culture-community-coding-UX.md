@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Create a Culture of Community-Oriented Coding UX
-# image:
+image: tiered-landscape-people-1450141-pxh.jpg
 ---
 Consider the path that brought you to this report. Perhaps you found a link to it on Twitter or Facebook. Or you discovered it through a search you did on Google. Or you found it through a WordPress.com blog. However you got to it, there's a good chance that the technologies that routed you to the words in front of you were shaped by experts in a methodology that helps them figure out what makes a target audience tick and then design a website or app so it's easy for that audience to use. That methodology is user experience design, also known as UX.
 
