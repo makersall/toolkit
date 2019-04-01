@@ -1,7 +1,8 @@
 ---
 layout: content
 title: Ground Tech Education In The Community
-# image:
+# image: hands-knitting-597586-pxh.jpg
+image: toy-community-2-666530-pxh.jpg
 ---
 Heart disease kills more men in the US than any other illness. High blood pressure is one of the biggest risk factors for it, and yet [according](https://www.nytimes.com/2018/05/21/upshot/what-barbershops-can-teach-about-delivering-health-care.html) to Doctor Aaron Carroll, "we have had a hard time getting patients to comply with recommendations and medications." A recent study targeting hard-to-reach patients tried to help them using a community-based strategy:
 

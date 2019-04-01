@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Build A Better Bridge Between Training And Work
-# image:
+image: red-vice-870794-pxh.jpg
 ---
 It takes a leap of faith as well as a lot of time and money to get the training you need to start a new career -- expenses that most folks in marginalized communities can barely afford. If there isn't a job or an opportunity to start a small business on the other end? It can dash hopes and drain pocketbooks, leaving people worse off than when they started. 
 

@@ -1,7 +1,8 @@
 ---
 layout: content
 title: Integrate Tech Training and Civic Engagement Training
-# image:
+# image: toy-dinosaurs-1451431-pxh.jpg
+image: ducks-cup-577341-pxh.jpg
 ---
 
 - [Why](10-why.html) Training In Civic Engagement?

@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Create a Community-Based Ecosystem of Support
-# image:
+image: hands-knitting-597586-pxh.jpg
 ---
 
 - Ground Tech Education [In The Community](10-community-support.html)

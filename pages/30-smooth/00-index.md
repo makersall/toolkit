@@ -2,7 +2,6 @@
 layout: summary
 title: 'Strategy #1: Smooth the Learning Curve'
 image: tiered-landscape-70998-pxh.jpg
-image-width: '60%'
 ---
 Why does training lots of people to become coders seem like Mission Impossible? Because right now, coding can be painfully hard to learn. But that's not a feature, it's a bug.
 

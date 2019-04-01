@@ -1,7 +1,9 @@
 ---
 layout: content
 title: Why Training In Civic Engagement?
-# image:
+# image: ducks-cup-577341-pxh.jpg
+# image: toy-dinosaurs-1451431-pxh.jpg
+image: toy-cars-886135-pxh.jpg
 ---
 
 Neil Gershenfeld, director of MIT's Center for Bits and Atoms, oversees a wildly ambitious 50 year research project in digital fabrication whose ultimate goal is to create the equivalent of Star Trek's replicator. A few years ago, he had a [surprising revelation](https://www.edge.org/conversation/neil_gershenfeld-digital-reality):  they'd figured out the technological roadmap to build replicators, and although it would take several decades to work their way down that road, it wasn't as technically daunting as he'd expected.

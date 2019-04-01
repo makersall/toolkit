@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Introduction
-# image:
+image: robots-graffiti-427160-pxh.jpg
 ---
 
 ## The Threat

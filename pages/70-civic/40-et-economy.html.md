@@ -1,7 +1,7 @@
 ---
 layout: content
 title: How Emerging Tech Will Turn The Economy Upside Down
-# image:
+image: cool-tunnel-147085-pxh.jpg
 ---
 
 The way our economy is organized and the rules by which it operates are based around a core set of assumptions. And over the next 20 years, some of those assumptions are going to be challenged or undermined by emerging tech. As a result, our society will face some very big decisions about the rules of the road for this new economy.

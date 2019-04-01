@@ -1,7 +1,7 @@
 ---
 layout: summary
 title: Introduction
-# image:
+image: painted-hands-1332840-pxh.jpg 
 ---
 
 - The [Threat And Opportunity](10-threat-opportunity.html)
