@@ -9,7 +9,7 @@ The techniques to make coding easier already exist: user experience design (UX).
 
 We need to do for emerging tech coding what Extension Services did for ag tech: make it a top priority to design it so it's easier for everyday adults to learn. Here's how:
 
-1. [Overview](05-why.html): (Need some text here that explains what I'm covering in the intro)
+1. [Overview](05-why.html): why smoothing the learning curve using UX is crucial to our success -- and a brief introduction to UX
 
 2. [Embrace Community-Oriented Coding UX](10-culture-community-coding-UX.html) so we expand coding beyond the people who already find it easy to learn. Focus on the needs of everyday adults by creating collaborations between tech companies and community groups to improve coding UX. And in doing so, create coding UX expertise in the community that can lead to jobs or small businesses
 
@@ -18,3 +18,6 @@ We need to do for emerging tech coding what Extension Services did for ag tech: 
 4. [Get Coding UX Research Out Of Its Silo](30-evangelize-research.html) so breakthrough techniques get out of the lab and into the hands of the coders who are creating and maintaining programming languages and frameworks
 
 5. [Create Institutional Support For Coding UX](40-institutional-support), particularly in Big Tech companies, VC, universities, and foundations
+
+<br/> Last: [Strategies](../strategies.html)
+<br/>Next: [Why We Need to Smooth the Learning Curve](05-why.html)

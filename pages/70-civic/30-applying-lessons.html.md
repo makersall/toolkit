@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Applying The Lessons Of Citizenship Schools
-# image:
+image: brushes-wood-1323248-pxh.jpg
 ---
 We can't simply replicate what Citizenship Schools did. For example:
 
@@ -78,3 +78,6 @@ As they gradually gained some confidence around the idea of being tool makers as
 By the end of the class, those who want to continue should be able to start meeting on their own as a group (a.k.a. a Band of Brothers and Sisters). Their group could not only begin to get help from but also begin to help others through a network of other folks around the country who've gone through a similar experience and who -- with occasional help from world-class techies from around the globe --  have been helping to shape the path people take to keep improving their skills. Perhaps a few of them will decide to help teach the next set of workshops. And perhaps their group will join others in their community and in other communities in helping to begin building the equivalent of Extension Services for emerging tech and begin having conversations about how we might begin to shape the emerging tech economy so that every community would benefit.
  
 
+<br/>Last: [What We Can Learn from Citizenship Schools](20-citizenship-schools.html)
+<br/>Next: [How Emerging Tech Will Transform Our Economy Over The Next 20-30 Years](40-et-economy.html)
+<br/>Up: [Combine Tech &amp; Civic Engagement Training](00-index.html)

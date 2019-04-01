@@ -17,4 +17,7 @@ But go to communities facing hard times and ask people if they think coding will
 The problem we face is not that the people trying to democratize coding aren't driven enough or passionate enough or smart enough. The problem is that they are hopelessly outmatched by the scale and scope of the challenge. If emerging tech is to provide real hope for communities that our society has left behind, we need a new approach. 
 
 Luckily, we don't have to figure out a solution from scratch. This isn't the first time our society has faced the need to bring about a massive transformation of the technical skills and knowledge of millions of people. The road to our future runs through our past.
-
+ 
+<br/>Next: [Lessons from Our Past: Cooperative Extension Services and Citizenship Schools](30-extension-citizenship-schools.html)
+<br/>Last: [The Threat And Opportunity](10-threat-opportunity.html)
+<br/>Up: [Introduction](00-index.html)

@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Integrate Tech Training and Civic Engagement Training
+title: 'Strategy #3: Integrate Tech Training and Civic Engagement Training'
 # image: toy-dinosaurs-1451431-pxh.jpg
 image: ducks-cup-577341-pxh.jpg
 ---
@@ -16,3 +16,6 @@ Emerging tech will not only create new economic opportunities, it will upend som
 4. [How Emerging Tech Will Transform Our Economy Over The Next 20-30 Years](40-et-economy.html), requiring that communities foster the skills of civic engagement around tech -- including addressing issues about the impact of emerging tech that go far beyond good paying coding jobs
 
 NOTE:This strategy must be designed so it can assist people from a wide variety of political ideologies and perspectives learn how to shape the direction of emerging tech, our communities, and our society. In short, the goal isn't to push a specific political viewpoint, it's to help revitalize our democracy in an era of rapid technological and economic change.
+
+<br/>Next: [Why Training In Civic Engagement Is so Critical](10-why.html) 
+<br/>Last: [Strategy #2: Create a Community-Based Ecosystem of Training Support](../50-support/00-index.html)

@@ -74,3 +74,7 @@ Hip Hop came out of neighborhoods that had lost hundreds of thousands of jobs to
 A key part of Hip Hop’s rise was a brilliant technical innovation: morphing turntables from tools for playing music into tools for making music. This innovation didn't come from the engineers who created turntables, it came from people like Grandmaster Flash.  Grandmaster Flash, one of the “holy Trinity” who created hip-hop, had the most technical training of the three, and he’d only attended a vocational high school. But while Grandmaster Flash wasn’t a PhD scientist, he was a mad scientist -- a genius with an obsessive drive to experiment and create something new.
 
 As important as it is to spread the most advanced technical skills to every community, what the birth of hip-hop shows us is that we must also empower people with a wide range of technical skills if we want to unlock the full creative and economic potential of emerging tech.
+
+<br/> Next: [Get Coding UX Research Out Of Its Silo](30-evangelize-research.html)
+<br/>Last: [Embrace Community-Oriented Coding UX](10-culture-community-coding-UX.html)
+<br/>Up: [Smooth the Learning Curve](00-index.html)

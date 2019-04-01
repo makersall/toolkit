@@ -1,8 +1,9 @@
 ---
 layout: content
 title: 'Lessons from Our Past: Cooperative Extension Services and Citizenship Schools'
-# image:
+image: extension-rutgers.png
 ---
+{Add photo citation }
 ## The Agricultural Challenge
 This isn't the first time we've faced the daunting task of training millions of adults to master a complex technological skill. 
 In the late 19th and early 20th century, the US faced a similar challenge to the one posed by Emerging Tech today. 
@@ -33,7 +34,10 @@ At the same time, the most bottom-up, grassroots-oriented traditions of Extensio
 
 How do we embrace the best parts of Extension Services' traditions and avoid the worst? By learning the lessons of another remarkable educational effort: the 1960s Civil Rights Movement's Citizenship Schools.
 
+
 ## Citizenship Schools
+
+<img src="{{ "assets/images/citizenship-school-jcrow-dead.jpg" | relative_url }}" style="float: right; width: 30%; height: auto; padding-left: 5px;">
 
 One of the major challenges facing the 1960s Civil Rights Movement was how to overcome voter suppression laws designed to stop African-Americans from voting by requiring that voters must be literate. How could the movement help African-Americans throughout the rural, agriculturally-dominated South to learn to read and write in a relatively short period of time so they could build political power? The solution: Citizenship Schools.
 
@@ -43,3 +47,6 @@ Where Citizenship Schools differed from Extension Services is that Citizenship S
 
 When the Internet first took off, it was sold as a tool for empowering everyone; instead, it became one critical foundation of an economy where communities from Harlem to Harlan County were left behind. If we don't want to repeat that mistake, we must ensure that every community has a seat at the table -- and to do that, we'll need to draw on the lessons of Citizenship Schools. Only by ensuring that there are enough people in every community who understand both how to code and how to fight for their community's future can we be confident that emerging tech opportunities will be accessible in every community and that every community will have a real say in who benefits from this new economy. 
 
+<br/>Next: [Caveats and Scope](50-caveats-scope.html)
+<br/>Last: [Is Truly Democratizing Emerging Tech a Pipedream](20-pipedream.html)?
+<br/>Up: [Introduction](00-index.html)

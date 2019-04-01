@@ -70,5 +70,8 @@ If researchers' work is going to have a significant impact, ultimately it's up t
 And if university and college researchers begin to build a more vibrant relationship with the world outside academia, demonstrating the practical worth of their research to a wider audience, large tech companies could help fund research that might have a strategic impact. 
 
 For example, it's [relatively difficult to get research funding on making machine learning easier to learn](https://medium.com/bits-and-behavior/we-need-to-learn-how-to-teach-machine-learning-acc78bac3ff8). Given that most big tech companies are pouring huge amounts of money into machine learning/AI, it's in their self-interest to either fund this research themselves or lobby to get it funded.
- 
 
+ 
+<br/> Next: [Create Institutional Support For Coding UX](40-institutional-support)
+<br/> Last: [Create a Continuum of Skill](20-continuum-skill.html)
+<br/>Up: [Smooth the Learning Curve](00-index.html)

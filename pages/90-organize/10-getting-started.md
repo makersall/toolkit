@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Getting Started
+title: Get Started
 image: storm-troopers-1402678-pxh.jpg
 ---
 If you agree with some or all of the vision laid out in this toolkit and you want to try it out in the real world, where do you begin?  Start from where you are. 
@@ -50,3 +50,6 @@ But it's easy to get tripped up by goals. A few thoughts on how to set goals tha
 - __How Many Zeros?__ Similarly, exact numbers aren't important early on. What you need to know is, are enough people getting trained and either getting good paying jobs or creating small businesses to boost your community's economy, or does your community need to train 10 times or 100 times as many people? 
 - __Track Diversity__. As the tech world has demonstrated, if organizations don't track their diversity they aren't likely to improve it. Once you're starting to make progress, make sure you think through how you will break down your goals by race, gender, income, urban vs. rural, etc. to ensure that everyone in your region will have a fair shot at jobs and co-ops/small business opportunities in emerging tech.
 - __Don't Juke the Stats__. As soon as stats are treated like grades, institutions will get creative in figuring out how to manipulate the numbers so it looks like they are succeeding -- what the TV show The Wire called "juking the stats." So if politicians or funders start hammering on exactly how many jobs should be created and setting unrealistic expectations, push back hard.
+
+<br/>Next: [Scale Up](20-scaling-up.html)
+<br/>Up: [Make It Happen](00-index.html)

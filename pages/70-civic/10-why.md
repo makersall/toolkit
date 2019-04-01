@@ -29,3 +29,6 @@ Today, only a handful of people have a say in answering questions like these.  E
 If we want more than a handful of people to shape the rules of the emerging tech road, we must ensure that as many people as possible in every community learn not only the technical skills but also the civic skills needed to truly participate. In Part 3, we will draw lessons from Citizenship Schools' experience teaching civic engagement, explore the implications of these lessons for emerging tech civic training, and provide a brief overview of some of the economic questions emerging tech will raise in the coming years.
 
 One final note. While civic training must be rooted in specific values such as freedom, equality, and justice, it must also be designed so it can assist people from a wide variety of political ideologies and perspectives learn how to shape the direction of emerging tech, our communities, and our society. The goal of this training is not to push a specific political viewpoint, it's to help revitalize our democracy in an era of rapid technological and economic change.
+
+<br/>Next: [What We Can Learn from Citizenship Schools](20-citizenship-schools.html)
+<br/>Up: [Combine Tech &amp; Civic Engagement Training](00-index.html)

@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Expanding Your Efforts and scaling Up
+title: Expand Your Efforts and Scale up
 image: ducks-together-857686-pxh.jpg
 ---
 ## Expanding Your Efforts
@@ -26,4 +26,6 @@ As we attempt to mobilize these resources, one of the advantages we have over so
 
 The need for bold action isn't news to anyone in the tech world -- that's why discussion of radical ideas like Universal Basic Income are now commonplace.  The issue isn't whether we need to act, it's what the right action is.  This shared understanding in tech doesn't mean action on the scale we need is inevitable, but it greatly improves the odds of success.
 
- 
+<br/>Next: [What People Who Work at Tech Companies Can Do](30-big-tech.html)
+<br/>Last: [Get Started](10-getting-started.html)
+<br/>Up: [Make It Happen](00-index.html)

@@ -37,6 +37,11 @@ The most common use case for using IE’s implicit grid is using it to generate 
 
 ---------------------------------------------------------------------------------------
 
+My old banner:
+<img src="{{ "assets/images/Makers-All-Butterfly.png" | relative_url }}" style="float: right; width: 40%; height: auto;">
+<h1>The Makers All Toolkit</h1>
+<p style="font-size: 125%;">How to Help Communities<br/> Transform Emerging Tech<br/> So They Can Shape <br/>Their Destinies<br/></p>
+<div style="clear: both; padding-bottom: 50px;"></div>
 
 
 

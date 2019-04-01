@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Ground Tech Education In The Community
+title: Ground Tech Education And Support In The Community
 # image: hands-knitting-597586-pxh.jpg
 image: toy-community-2-666530-pxh.jpg
 ---
@@ -119,3 +119,6 @@ By exploring these possible overlaps between corporations and communities, we ca
 - __Foster Informal Connections That Can Lead to Jobs, Opportunities to Create Wealth__.  The ecosystem support could spawn informal connections between people in the community and people working in corporations & nonprofits. These kinds of informal personal connections are a great way of finding good jobs -- especially given that many jobs are never advertised. Similarly, these informal personal connections will be an invaluable resource for fledgling community co-ops and small businesses.
 - __Leverage More Resources__.  For corporations and other large organizations, embracing a community-oriented ecosystem support is a twofer. They get to give back to the community, and their organization directly benefits from the resource they have helped to create. 
 - __Provide a Bridge for Thinking through Learning-Work Connection__.  The other function this connection could serve is to provide a space that will encourage thinking through the connection between learning, support, and work. That's the subject of the next chapter.
+
+<br/> Next: [Build A Better Bridge Between Training And Work](20-training-work.html)
+<br/> Up: [Create a Community-Based Ecosystem of Training Support](00-index.html)

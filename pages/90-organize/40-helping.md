@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Using Economic Leverage To Help Others
+title: Use Your Economic Leverage To Help Others
 image: teddybear-help-497852-pxh.jpg
 ---
 
@@ -15,3 +15,7 @@ Given that people who obtain full-time jobs or create small businesses/co-ops in
 - Helping organized nursing home aides gain a say on the direction of efforts to automate their work so their jobs become less physically demanding and more mentally and emotionally fulfilling over time
 
 It's unrealistic to expect this kind of support early on -- emerging tech activists will already have their hands full. But as they dream about when their efforts could lead 20 years from now, it's worth at least beginning to ask questions about how successes with emerging tech might be leveraged to help all people in their community.
+
+<br/>Next: [Build Bridges across Communities](50-bridging-communities.html)
+<br/>Last: [What People Who Work at Tech Companies Can Do](30-big-tech.html)
+<br/>Up: [Make It Happen](00-index.html)

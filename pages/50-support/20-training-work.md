@@ -81,3 +81,6 @@ If large tech companies and multinationals can't play this role in enough commun
 
 To figure out an effective role for the government, we would need to run some pilot projects. And there are number of potential dangers we would need to address -- e.g., to reduce the danger of corruption, political favoritism, nepotism, etc., we would need an approach that was fully transparent. But given the impressive track record the federal government has in helping underwrite the rise of the tech industry, if the private sector can't give rural communities a leg up, there's no reason why the public sector can't help.
 
+<br/> Next: [Strategy #3: Combine Tech &amp; Civic Engagement Training](../70-civic/00-index.html)
+<br/> Last: [Harness the Power of Community Support and Training](10-community-support.html)
+<br/> Up: [Create a Community-Based Ecosystem of Training Support](00-index.html)

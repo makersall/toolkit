@@ -100,3 +100,6 @@ But if we do it right, it's still extremely useful to think and debate about the
  
 It is a rare and precious gift to have a glimpse of the dangers and opportunities we'll face over the next 20 years. Let's not squander it.
  
+<br/>Last: [Applying The Lessons of Citizenship Schools](30-applying-lessons.html)
+<br/> Next: [Making It Happen](../90-organize/00-index.html)
+<br/>Up: [Combine Tech &amp; Civic Engagement Training](00-index.html)

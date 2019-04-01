@@ -27,3 +27,6 @@ For small startups, the situation is more complicated. Most startups don't have 
 __Be Flexible__
 All of the above is meant only as a guide; you'll need to adapt it to your circumstances. For example, it may take some time before you'll figure out the right community partners. In the meantime, there's no reason you couldn't start working on smoothing the learning curve. In the experience of this report's author, many emerging tech frameworks, etc. have glaring UX shortfalls -- issues where anyone with experience teaching coding to non-techie adults could point out a number of problems that could be fixed even before you start using formal UX techniques.
 
+<br/>Next: [Use the Economic Leverage We Build to Help Others](40-helping.html)
+<br/>Last: [Scale Up](20-scaling-up.html)
+<br/>Up: [Make It Happen](00-index.html)

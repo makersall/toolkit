@@ -1,7 +1,7 @@
 ---
 layout: content
 title: What Citizenship Schools Can Teach Us
-# image:
+image: citizenship-school-brobinson.jpg
 ---
 In the 1950s and early 60s, one of the major challenges the Civil Rights Movement faced in the Deep South was that voter suppression laws barred anyone from voting unless they could read and write. How could the movement help enough African-Americans become literate quickly enough to build political power -- especially in an environment where any efforts by African-Americans to win the right to vote might be violently suppressed? The solution: Citizenship Schools.
 
@@ -61,6 +61,7 @@ Next came a template to "Canvas your Neighborhood" as well as a list of "Suggest
 - "Plan a meeting for next week to give help to each other (if possible, arrange to start a Citizenship School)" 
 - "Have someone contact the persons who did not show up at the [block party] meeting."
 
+<img src="{{ "assets/images/citizenship-school-slcarke-article.jpg" | relative_url }}" style="float: right; width: 30%; height: auto;">
 There were 2 reasons for this approach. First, [according](https://www.crmvet.org/info/cs.htm) to Clark,
 
 > _The basic purpose of the citizenship schools is discovering and developing local community leaders_. One of the unique practical features of the concept is the ability to adapt at once to specific situations and stay in the local picture only long enough to help in the development of local leaders. These are trained to carry on an ever growing program of community development. The secret stems from the emphasis and the reliance on local leadership. It is my belief that creative leadership is present in any community and only awaits discovery and development.
@@ -68,3 +69,7 @@ There were 2 reasons for this approach. First, [according](https://www.crmvet.or
 The other reason behind this approach was the belief that there is a limit to what you can learn in a classroom. Action in the real world is needed both to fully learn these lessons and to build the confidence to act. 
 
 Citizenship Schools use a similar approach for training its teachers. In addition to being required to take a 5 day workshop on how to run a Citizenship School, teachers were expected to research the hours and location of the voter registration office, election dates, the names of local politicians, and the location of the nearest Social Security office. Workshops ended with a discussion of how they would use what they learned to make a difference in their community when they got back home.  Many people who became local civil rights leaders started out as being trained to run Citizenship Schools classes.
+
+<br/>Last: [Why Training In Civic Engagement Is so Critical](10-why.html) 
+<br/> Next: [Applying The Lessons of Citizenship Schools](30-applying-lessons.html)
+<br/>Up: [Combine Tech &amp; Civic Engagement Training](00-index.html)

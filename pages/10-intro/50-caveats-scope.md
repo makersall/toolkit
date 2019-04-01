@@ -37,3 +37,6 @@ The first version of the Makers All strategy is focused on the circumstances fac
 
 As Makers All begins working with communities around the globe, this toolkit and the overall strategy will undoubtedly change substantially.
 
+<br/>Last: [Lessons from Our Past: Cooperative Extension Services and Citizenship Schools](30-extension-citizenship-schools.html)
+<br/> Next: [Strategies](../strategies.html)
+<br/>Up: [Introduction](00-index.html)

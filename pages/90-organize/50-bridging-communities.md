@@ -1,6 +1,6 @@
 ---
 layout: content
-title: Forging Bonds Across Communities
+title: Forge Bonds Across Communities
 image: teddybears-together-1123.jpg
 ---
 
@@ -11,3 +11,6 @@ We live in an era where much of our politics are polarized -- and in a democracy
 There are few better ways of reforging our bonds than in the crucible of working together. Working together and learning from one another is an efficient and effective means of operating. But if our work is structured properly, it can also build connections among people and communities that have a deep and profound effect on how we see others and how we see ourselves.
 
 In short, as we work together, helping one another as we struggle for a better future for all of our communities, black and white, rural and urban, red state and blue, we may also find our way to rediscovering our common humanity. 
+
+<br/>Last: [Use the Economic Leverage We Build to Help Others](40-helping.html)
+<br/>Up: [Make It Happen](00-index.html)

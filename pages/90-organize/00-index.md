@@ -14,5 +14,8 @@ How do we turn these ideas into reality?
 
 4. [Use the Economic Leverage We Build to Help Others](40-helping.html), so people in the community who don't become developers and designers will still benefit
 
-5.[Build Bridges across Communities](50-bridging-communities.html), especially between red and blue states
+5. [Build Bridges across Communities](50-bridging-communities.html), especially between red and blue states
 
+
+<br/>Next: [Get Started](10-getting-started.html)
+<br/> Last: [Strategy #3:Combine Tech &amp; Civic Engagement Training](../70-civic/00-index.html)

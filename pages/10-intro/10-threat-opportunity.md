@@ -31,3 +31,5 @@ Robots and AI threaten to shatter the link between that wealth and broad prosper
 
 As we'll see in Part 3 and the conclusion, this opportunity won't solve all of the economic problems created by robots and AI -- e.g., not everyone is going to become a programmer or designer. But if we take advantage of this opportunity, it could serve as one of the central foundations for rebuilding our communities.
 
+ <br/>Next: [Is Truly Democratizing Emerging Tech a Pipedream](20-pipedream.html)
+ <br/>Up: [Introduction](00-index.html)
