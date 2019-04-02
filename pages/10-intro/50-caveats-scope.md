@@ -16,7 +16,7 @@ Makers All is focused on addressing the needs of adults, not children. There are
 
 2) When it comes to children, it's less necessary to advocate for the report's ideas because some of these ideas are already being implemented.  For example:
 
-- As we will see in Part 1, there's plenty of work being done on improving coding UX for kids
+- As we will see in our discussion of [Strategy #1](../30-smooth/05-why.html), there's plenty of work being done on improving coding UX for kids
 - Most children are already enmeshed in a variety of community networks, from school to after-school clubs to church programs, and some of these networks are encouraging kids to get involved in coding and design
 
 3) Adults and children have very different needs. For example:
@@ -37,6 +37,6 @@ The first version of the Makers All strategy is focused on the circumstances fac
 
 As Makers All begins working with communities around the globe, this toolkit and the overall strategy will undoubtedly change substantially.
 
-<br/>Last: [Lessons from Our Past: Cooperative Extension Services and Citizenship Schools](30-extension-citizenship-schools.html)
 <br/> Next: [Strategies](../strategies.html)
+<br/>Last: [Lessons from Our Past: Cooperative Extension Services and Citizenship Schools](30-extension-citizenship-schools.html)
 <br/>Up: [Introduction](00-index.html)

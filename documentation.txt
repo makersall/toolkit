@@ -5,7 +5,13 @@ content: for basic pages of content in the toolkit. Can optionally include an im
 summary: for pages that summarize/outline an argument, strategy, etc., primarily using small amounts of text plus lots of links
 
 
+If you need to do a link in the middle of a page:
 
+- If it's to a simple header, such as a pound sign, where the text of the header doesn't contain any punctuation or anything else that might throw off the markdown parser, just take the words in the header, make them lowercase, and put hyphens between them
+- if it's not a simple header, this approach works pretty well: 
+```
+<h2 id="opportunity">The Opportunity:  The Explosion of Emerging Tech</h2>
+```
 
 display: grid;
   grid-template-columns: 80px 200px auto 40px;

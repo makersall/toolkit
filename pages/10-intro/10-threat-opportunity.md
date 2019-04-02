@@ -29,7 +29,7 @@ Over the next 20 years, not only robots and AI but also augmented and virtual re
 
 Robots and AI threaten to shatter the link between that wealth and broad prosperity: new industries may not create lots of good jobs.  But if we can ensure everyday people get a seat at the table, if we can figure out how to train millions of people from Compton to Appalachia to become developers and designers, they should be able to capture a big enough slice of emerging tech's wealth to help revitalize our communities.
 
-As we'll see in Part 3 and the conclusion, this opportunity won't solve all of the economic problems created by robots and AI -- e.g., not everyone is going to become a programmer or designer. But if we take advantage of this opportunity, it could serve as one of the central foundations for rebuilding our communities.
+As we'll see in our discussion of [the impact of emerging tech will have on the economy](../70-civic/40-et-economy.html) and in the [Conclusion](../90-organize/40-helping.html), this opportunity won't solve all of the economic problems created by robots and AI -- e.g., not everyone is going to become a programmer or designer. But if we take advantage of this opportunity, it could serve as one of the central foundations for rebuilding our communities.
 
  <br/>Next: [Is Truly Democratizing Emerging Tech a Pipedream](20-pipedream.html)
  <br/>Up: [Introduction](00-index.html)

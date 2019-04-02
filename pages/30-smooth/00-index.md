@@ -19,5 +19,5 @@ We need to do for emerging tech coding what Extension Services did for ag tech: 
 
 5. [Create Institutional Support For Coding UX](40-institutional-support), particularly in Big Tech companies, VC, universities, and foundations
 
-<br/> Last: [Strategies](../strategies.html)
 <br/>Next: [Why We Need to Smooth the Learning Curve](05-why.html)
+<br/> Last: [Strategies](../strategies.html)

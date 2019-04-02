@@ -6,7 +6,7 @@ image: tiered-landscape-people-1450141-pxh.jpg
 ## Why Coding Tool Makers Don't Realize Their Tech Is Inaccessible
 Today, the UX of coding libraries, frameworks, etc. is usually tested by seeing if the tool makes sense to a tech company's coders and other people with a similar background. So it's no surprise that these coders don't realize their tools are unnecessarily intimidating or inaccessible to people who aren't like them. 
 
-For example, one of the major development platforms for creating virtual reality and augmented reality is the Unity gaming engine. The company that built Unity has developed a large number of tutorials to help people master Unity development.  In their first tutorial for beginners, here's the [first script](https://www.nngroup.com/articles/usability-101-introduction-to-usability/) you write:
+For example, one of the major development platforms for creating virtual reality and augmented reality is the Unity gaming engine. The company that built Unity has developed a large number of tutorials to help people master Unity development.  In their first tutorial for beginners, here's the [first script](https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial/moving-player) you write:
 
 ```
 public class PlayerController : MonoBehaviour {

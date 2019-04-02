@@ -65,7 +65,7 @@ To do so, we will need to continually ask two questions:
 
 In short, as automation continues to transform the skill landscape, we will need continual rounds of user experience design to smooth the learning curve so "leveling up" is as easy and engaging as possible. 
 
-## Hip-Hop Wasn't Created By Turntable Engineers
+<h2 id="hip-hop">Hip-Hop Wasn't Created By Turntable Engineers</h2>
 
 Some advocates for power users or blue-collar coders sound as if as if they think these types of workers won't be capable of the kind of creative work that will drive emerging tech forward. While it's certainly true that some cutting-edge emerging tech work will require a PhD, the history of hip-hop suggests you don't need to be a rocket scientist to power innovation.
 

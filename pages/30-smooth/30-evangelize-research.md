@@ -4,14 +4,15 @@ title: Evangelize Breakthrough Research on Coding UX
 image: tiered-landscape-cool-1292416-pxh.jpg
 # image: cool-tunnel-147085-pxh.jpg
 ---
-The following are [some examples](https://www.youtube.com/watch?v=mkzHIhKaUX4) of what researchers in University of Washington's Code & Cognition Lab have cooked up to make coding more accessible to all: 
+The following are [some examples](https://www.youtube.com/watch?v=mkzHIhKaUX4) of what researchers in University of Washington's [Code & Cognition Lab](https://medium.com/bits-and-behavior) have cooked up to make coding more accessible to all: 
 
-- __Learning by Solving Debugging Puzzles__. Mike Lee created Gidget, an interactive tutor for learning the programming language Python by solving debugging puzzles. In a study of 1,000 adult learners, he found that
+- __Learning by Solving Debugging Puzzles__. [Mike Lee](https://informatics.njit.edu/faculty/mjlee) created [Gidget](https://www.helpgidget.org/), an interactive tutor for learning the programming language Python by solving debugging puzzles. In a study of 1,000 adult learners, he found that
   -  People who used Gidget picked up Python twice as fast as a well-regarded online Python tutorial and learned twice as much Python as participants who learned by doing.
   - Gidget "changed attitudes about the difficulty of learning to code from negative to positive in 20 minutes" -- an incredibly important finding for efforts to make coding accessible.
-- __Learning by Tracing on Paper__. Benji Xie believed learners often have a "brittle" knowledge of a programming language's semantics, so they just guess what will happen when their program runs -- a surefire strategy for producing frustration and failure.  He developed an innovative strategy that involves students figuring out on paper how their program will execute.  His study showed that with less than 15 minutes of training in this technique, students did 15% better on computer class lab problems and 7% better on midterms -- and no one who used the strategy failed the midterm, in contrast to 25% of the control group. 
-- __Speed Up Learning JavaScript__. Greg Nelson created PLTutor, an online interactive textbook designed to cover all of the basics of standard JavaScript in 3 hours. For each core idea in JavaScript, PLTutor explains why & when you'd want to use that idea, then lets you step through code using the idea so you can see how the code executes and what impact it has. His study demonstrated that compared to a well-regarded online class, participants who used PLTutor had 60% higher learning gains.
-The Code and Cognition Lab has even more dazzling work in the pipeline. In a 2018 talk, Professor Andrew Ko says they are now working on a project to create a scalable online tutor that “provides infinite personalized practice by applying program synthesis and our theories of programming knowledge." Their goal: students would be able to master the basics of a 10 week intro computer science course in just 10 hours.
+- __Learning by Tracing on Paper__. [Benji Xie](http://benjixie.com/) believed learners often have a "brittle" knowledge of a programming language's semantics, so they just guess what will happen when their program runs -- a surefire strategy for producing frustration and failure.  He developed an innovative strategy that involves students figuring out on paper how their program will execute.  His study showed that with less than 15 minutes of training in this technique, students did 15% better on computer class lab problems and 7% better on midterms -- and no one who used the strategy failed the midterm, in contrast to 25% of the control group. 
+- __Speed Up Learning JavaScript__. [Greg Nelson](http://www.greglnelson.info/) created [PLTutor](http://pythontutor.com/), an online interactive textbook designed to cover all of the basics of standard JavaScript in 3 hours. For each core idea in JavaScript, PLTutor explains why & when you'd want to use that idea, then lets you step through code using the idea so you can see how the code executes and what impact it has. His study demonstrated that compared to a well-regarded online class, participants who used PLTutor had 60% higher learning gains.
+
+The Code and Cognition Lab has even more dazzling work in the pipeline. In a [2018 talk](https://www.youtube.com/watch?v=mkzHIhKaUX4), Professor [Andrew Ko](http://faculty.washington.edu/ajko/) says they are now working on a project to create a scalable online tutor that “provides infinite personalized practice by applying program synthesis and our theories of programming knowledge." Their goal: students would be able to master the basics of a 10 week intro computer science course in just 10 hours.
 
 There are many more research shops around the globe, many of which have produced equally impressive work.
 
@@ -23,7 +24,7 @@ It's not that some researchers aren't working with people out in the field. For 
 
 The following are some strategies researchers might try if they want their research to make some noise.
 
-WARNING:  this chapter gets into the (geeky) weeds, so if you aren't a techie and don't work in tech, you may want to skip to the next chapter.
+WARNING:  this chapter gets into the (geeky) weeds, so if you aren't a techie and don't work in tech, you may want to skip to the next section on [creating institutional support for coding UX](40-institutional-support).
 
 ## 1) Embrace Tech Groups
 
