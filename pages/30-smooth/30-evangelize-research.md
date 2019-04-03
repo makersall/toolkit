@@ -24,7 +24,7 @@ It's not that some researchers aren't working with people out in the field. For 
 
 The following are some strategies researchers might try if they want their research to make some noise.
 
-WARNING:  this chapter gets into the (geeky) weeds, so if you aren't a techie and don't work in tech, you may want to skip to the next section on [creating institutional support for coding UX](40-institutional-support).
+NOTE:  this chapter gets into the (geeky) weeds, so if you aren't a techie or don't work in tech, you may want to skip to the next section on [creating institutional support for coding UX](40-institutional-support).
 
 ## 1) Embrace Tech Groups
 
