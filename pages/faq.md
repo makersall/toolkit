@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Frequently Asked Questions
-image: 'paint-brushes-1366198-pxh.jpg'
+image: 'painted-hands-1332840-pxh.jpg'
 ---
 
 ### Isn't Coding Too Hard to Expect Most People to Do It?

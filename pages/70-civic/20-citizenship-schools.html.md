@@ -70,6 +70,6 @@ The other reason behind this approach was the belief that there is a limit to wh
 
 Citizenship Schools use a similar approach for training its teachers. In addition to being required to take a 5 day workshop on how to run a Citizenship School, teachers were expected to research the hours and location of the voter registration office, election dates, the names of local politicians, and the location of the nearest Social Security office. Workshops ended with a discussion of how they would use what they learned to make a difference in their community when they got back home.  Many people who became local civil rights leaders started out as being trained to run Citizenship Schools classes.
 
-<br/>Last: [Why Training In Civic Engagement Is so Critical](10-why.html) 
 <br/> Next: [Applying The Lessons of Citizenship Schools](30-applying-lessons.html)
+<br/>Last: [Why Training In Civic Engagement Is so Critical](10-why.html) 
 <br/>Up: [Combine Tech &amp; Civic Engagement Training](00-index.html)

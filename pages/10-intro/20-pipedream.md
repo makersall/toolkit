@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Is Truly Democratizing Emerging Tech a Pipedream?
-# image:
+image: pain-splatters-140106-pxh.jpg
 ---
 But can we train millions of everyday people to become developers and designers? Given where we are today, it's understandable that many think this goal is just wishful thinking.
 

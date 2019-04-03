@@ -1,7 +1,7 @@
 ---
 layout: content
 title: Scope and Caveats
-# image:
+image: slightly-messy-paints-551113-pxh.jpg
 ---
 
 ## Version 0.1
