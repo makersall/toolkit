@@ -12,5 +12,5 @@ There are few better ways of reforging our bonds than in the crucible of working
 
 In short, as we work together, helping one another as we struggle for a better future for all of our communities, black and white, rural and urban, red state and blue, we may also find our way to rediscovering our common humanity. 
 
-<br/>Last: [Use the Economic Leverage We Build to Help Others](40-helping.html)
-<br/>Up: [Make It Happen](00-index.html)
+<!-- <br/>Last: [Use the Economic Leverage We Build to Help Others](40-helping.html) -->
+<!-- <br/>Up: [Make It Happen](00-index.html) -->
