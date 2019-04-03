@@ -36,14 +36,3 @@ On dealing w ie, 2018:
 The most common use case for using IE’s implicit grid is using it to generate your rows for you. If you want all the rows in the grid to have their height dictated by the height of their content, you do not need to bother defining -ms-grid-rows (the IE version of grid-template-rows). The rows will automatically be generated for you in IE when placing your grid cells.
 
 ---------------------------------------------------------------------------------------
-
-My old banner:
-<img src="{{ "assets/images/Makers-All-Butterfly.png" | relative_url }}" style="float: right; width: 40%; height: auto;">
-<h1>The Makers All Toolkit</h1>
-<p style="font-size: 125%;">How to Help Communities<br/> Transform Emerging Tech<br/> So They Can Shape <br/>Their Destinies<br/></p>
-<div style="clear: both; padding-bottom: 50px;"></div>
-
-
-
-
-- Fix caveats and scope so it links to Part 3 and the Conclusion

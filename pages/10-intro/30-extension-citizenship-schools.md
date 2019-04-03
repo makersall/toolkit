@@ -49,6 +49,13 @@ When the Internet first took off, it was sold as a tool for empowering everyone;
 
 [More on Citizenship Schools](../70-civic/20-citizenship-schools.html).
 
+## Letting Go of Fear
+
+Ultimately, the most important lesson we can learn from Extension Services and Citizenship Schools is that we need to stop being afraid to think big.
+
+We have a rare opportunity to make more emerging tech jobs more accessible today and to create a better future for all tomorrow. But to seize it, we need to think boldly, dream, and then act on a large enough scale to realize those dreams.
+
+
 <br/>Next: [Caveats and Scope](50-caveats-scope.html)
 <br/>Last: [Is Truly Democratizing Emerging Tech a Pipedream](20-pipedream.html)?
 <br/>Up: [Introduction](00-index.html)
