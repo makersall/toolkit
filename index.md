@@ -1,4 +1,5 @@
 ---
+title: Makers All Toolkit
 layout: home
 ---
 <img src="{{'/assets/images/makers-all-banner.png'  | relative_url }} ">
@@ -27,5 +28,6 @@ Like some or all of this model and want to help turn it into a reality?  Here's 
 
 ## Other Info
 - [Caveats and Scope](pages/10-intro/50-caveats-scope.html)
-- [FAQ](pages/FAQ.html)
+- [FAQ](pages/faq.html)
+
 
