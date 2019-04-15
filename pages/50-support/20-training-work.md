@@ -57,7 +57,7 @@ As communities begin to experiment with solutions, here are a few things to keep
 - __Focus on Diversity__. Although the tech world talks a good game about democratizing coding for all, most tech companies have made remarkably little progress in creating a workforce that is diverse as the society where they work. Therefore, any solution should designed so it makes diversity a top priority.
 - __Engage the Whole Public__. To have the greatest impact, we should tackle these problems as part of broader efforts at civic engagement (see Part 3). There may already be an initiative in your region to tackle these questions that most people in the community -- including many employers -- don't know anything about because the project didn't decide to deeply engage with the public.
 
-## What to Do If There Aren't Enough Jobs/Business Opportunities
+## What to Do If There Are Too Few Jobs Or Business Opportunities
 
 The above strategies assume there are enough jobs or opportunities for creating small businesses in the region surrounding the community. But what if there aren't? What about, for example, rural communities where there may be few if any good paying tech jobs? The following are some strategies that might be worth exploring.
 
