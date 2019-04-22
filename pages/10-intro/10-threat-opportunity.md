@@ -5,7 +5,7 @@ image: robots-graffiti-427160-pxh.jpg
 ---
 
 ## The Threat
-We live in an age of a technological paradox. The computing power that used to fill up a floor now fits inside your pocket, and the Internet and other new technology have produced staggering amounts of wealth. But despite claims that this technological revolution would empower everyone, wages for most workers have stagnated for decades, and communities from Compton to Harlan County have essentially been written off. 
+We live in an age of a technological paradox. The computing power that used to fill a floor now fits inside your pocket, and the Internet and other new technology have produced staggering amounts of wealth. But despite claims that this technological revolution would empower everyone, wages for most workers have stagnated for decades, and communities from Harlem to Harlan County have essentially been written off. 
 
 The future could be even more grim. Many experts believe that in the next 10-20 years, 25-75% of all jobs will be eliminated by robots/AI. If they're right, this crisis could end up devastating the middle class and the poor and destroying our democracy.
 
@@ -23,7 +23,7 @@ Regardless of whether robots and AI lead to mass unemployment or mass displaceme
  
 <h2 id="opportunity">The Opportunity:  The Explosion of Emerging Tech</h2>
 
-But our future doesn't have to be grim. Even as robots and AI's impact on work may pose a serious threat to our future, there is another technological trend that will give us a once-in-a-century opportunity to make our communities whole.
+Our future doesn't have to be grim. Even as robots and AI's impact on work may pose a serious threat to our future, there is another technological trend that will give us a once-in-a-century opportunity to make our communities whole.
 
 Over the next 20 years, not only robots and AI but also augmented and virtual reality, digital fabrication, and other emerging technologies will become ubiquitous, becoming one of the core driving forces in our economy. As they do so, they will create an abundance of wealth.
 

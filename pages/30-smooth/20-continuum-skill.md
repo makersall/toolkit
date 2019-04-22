@@ -5,7 +5,7 @@ image: tiered-landscape-houses-70963-pxh.jpg
 ---
 So far, we've focused on making the skills of a full-blown developer as accessible as possible.  But is that level of skill really necessary for every job?
 
-If we want to increase the odds of truly democratizing emerging tech, in every field of emerging tech we need to start to asking two questions:
+If we want to increase the odds of truly democratizing emerging tech, in every field of emerging tech we need to ask two questions:
 
 - Is it possible to create a continuum of skill in this field -- e.g., from beginners to power users to blue-collar coders to highly skilled developers?
 - Can we use coding UX to reduce the work required to "level up" along this continuum?
@@ -20,7 +20,7 @@ One-click solutions are great so long as users stick to the well-marked trails t
 
 But with Excel, if you're a little adventurous it's remarkable what you can do as a "power user."  You can start by learning a few tricks, then gradually add more tools to your toolbox as you need them. The results aren't always pretty; sometimes it feels like Excel is duct tape for data. But like duct tape, you don't need to be highly skilled to use it to solve a wide range of problems.
 
-If we're going to create an economy where many people in communities from Harlem to Harlan County can make a living from emerging tech, we need to start designing emerging tech tools so they can do what Excel does so well: support a culture of power users.  Power users don't need a computer science college degree -- or for that matter any college degree -- to possess valuable skills that pay well. In short, by designing tools that support power users, the tech industry can create a wider range of opportunities for paid tech work.
+If we're going to create an economy where lots of people in communities from Harlem to Harlan County can make a living from emerging tech, we need to start designing emerging tech tools so they can do what Excel does so well: support a culture of power users.  Power users don't need a computer science college degree -- or for that matter any college degree -- to possess valuable skills that pay well. In short, by designing tools that support power users, the tech industry can create a wider range of opportunities for paid tech work.
 
 ### Blue-Collar Coders
 
@@ -38,7 +38,7 @@ Recently, several tech companies have been exploring the space along the continu
 
 These tools are often quite powerful. But most of them suffer from the same problem: if your needs outstrip what the tool was designed to do, the learning curve to level up your skills is too steep.
 
-If we aren't careful, there's a real danger that these well-meaning efforts to empower people will lead to the creation of a new class of dead-end jobs. That's why any effort to create a continuum of skill needs to make smoothing the learning curve along that continuum a priority.
+If we aren't careful, there's a real danger that these well-meaning efforts to empower people will lead to the creation of a new class of dead-end jobs. That's why any effort to create a continuum of skill needs to prioritize smoothing the learning curve along that continuum.
 
 ## Create a Continuum for Artists and Designers As Well As Coders
 
@@ -54,7 +54,7 @@ And we can't assume that the pace of automation will slow down. If anything, it'
 
 In the past, there was often a significant gap between rounds of mechanization because the tech needed to mechanize one skill didn't easily translate to another. Wheat harvesting, for example, was mechanized in the 1930s and 40s, but it took almost two decades before the mechanization of tomato harvesting became commonplace.  
 
-In contrast, it took just a few years for the machine learning libraries used to categorize pictures of cats on the Internet to begin to be used in a wide range of fields, from drones to medical systems that can analyze some types of x-rays better than most doctors can. Thanks to the Internet and Open Source, we can expect even more cross-pollination in the future.
+In contrast, it took just a few years for the machine learning libraries used to categorize pictures of cats on the Internet to begin to be used in a wide range of fields, from drones to medical systems that can analyze some types of x-rays better than most doctors. Thanks to the Internet and Open Source, we can expect even more cross-pollination in the future.
 
 As AI/robotics allow people to do more and more with less skill, we can also expect it will lead to the rise of new, highly demanding developer skills. That's why creating a software tool development process that iteratively creates and re-creates a continuum of work is so critical. 
 

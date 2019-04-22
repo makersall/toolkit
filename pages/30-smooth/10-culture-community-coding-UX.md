@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour {
 }
 ```
 
-Several smart, thoughtful people from the tech world who were interviewed for this report didn't recognize that scripts like this might intimidate many beginners and might pose a significant obstacle.
+The people at Unity who developed this script, who are undoubtedly passionate about democratizing Unity's tech, didn't recognize that scripts like this might intimidate many beginners and might pose a significant obstacle.
 
 This is completely understandable. Unity has fostered a wonderful, thriving user community, that includes plenty of beginners who've picked up the basics of the Unity framework. If you're part of this community, scripts like the one above might not seem like a big deal.   
 
@@ -40,7 +40,7 @@ Tech company CEOs say they want to empower not just people like themselves but e
 
 If a tech company randomly picked five people off the street who weren't geeks and did a little UX testing of their coding platform, they'd be way ahead of the game. At this point, any efforts to move beyond their usual audience would yield useful results.
 
-But if tech companies want to truly democratize emerging tech, they should try a more ambitious strategy:  building relationships with community groups, especially those who are already providing technical trainings.
+But if tech companies want to truly democratize emerging tech, they should try a more ambitious strategy:  building relationships with community groups, especially those who are already providing technical training.
 
 One of the reasons why millions of US farmers were able to master modern farming is because Extension Services created a feedback loop between researchers and farming communities. If an agricultural researcher had devised a new approach for reducing problems with a particularly pesky beetle or a better strategy for planting wheat, an Extension Services agent would show it to farmers in their county. They'd get feedback from the farmers about what worked and what didn't, which would get passed back to researchers. 
 

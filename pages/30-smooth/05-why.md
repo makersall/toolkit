@@ -7,7 +7,7 @@ Consider the path that brought you to this report. Perhaps you found a link to i
 
 In the worlds of web and mobile, UX has had a deep and profound impact on how designers work. You can take courses in UX design, go to conferences about it, even get a job doing it. If a corporation, nonprofit, or government is serious about reaching their audience, they've got staff or consultants who live and breathe UX. As you know from surfing the web, not every site uses UX design. But for anybody serious about building a great front-end, UX is a critical tool in their arsenal.
 
-But when it comes to the programming languages and frameworks developers use to build these front-ends? The people who design these languages and frameworks rarely apply UX techniques to make it easier for your average person to use them. You don't need to spend much time reading code [that looks like this](https://codelabs.developers.google.com/codelabs/ar-with-webxr/#5):
+But for the programming languages and frameworks developers use to build these front-ends, it's a different story. The people who design these languages and frameworks rarely apply UX techniques to make it easier for your average person to be a developer.  You don't need to spend much time reading code [that looks like this](https://codelabs.developers.google.com/codelabs/ar-with-webxr/#5):
 
 ```
   if (hits.length) {
@@ -23,7 +23,7 @@ to know that UX focused on everyday adults did not grace this house.
 
 There is one major exception: programming languages and environments designed for young kids. There's a mountain of research on how to make it easier for young children to learn to code. Some of the resulting languages/tools, such as Scratch, are quite impressive.
 
-But for the languages and frameworks adults need to know to get a job? The UX revolution might as well not exist.
+But for the languages and frameworks adults need to know to get a job, the UX revolution might as well not exist.
 
 Today, most efforts at making emerging tech accessible focus on training people to use coding tech as it is. In short, they try to move people closer to the tech. Despite a lot of hard work by very dedicated people, this strategy isn't enough to close the gap. Learning to code is still too hard and too clunky to have any chance of becoming a major opportunity for many people in every community. To truly democratize emerging tech, we also need to work the other side of the equation: move the tech closer to the people.
  

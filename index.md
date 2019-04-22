@@ -26,8 +26,7 @@ How do we do it? Using [3 strategies](pages/strategies.html):
 ## [Turning the Model into Reality](pages/90-organize/00-index.html)
 Like some or all of this model and want to help turn it into a reality?  Here's [how you can get started](pages/90-organize/00-index.html).
 
-## Other Info
-- [Caveats and Scope](pages/10-intro/50-caveats-scope.html)
-- [FAQ](pages/faq.html)
+
+## [Caveats and Scope](pages/10-intro/50-caveats-scope.html)
 
 

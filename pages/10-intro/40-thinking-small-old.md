@@ -4,7 +4,7 @@ title: Stop Thinking Small
 # image:
 ---
 
-Ultimately, the most important lesson we can learn from Extension Services and Citizenship Schools is that we need to stop being afraid to think big.
+Ultimately, the most important lesson we can learn from Extension Services and Citizenship Schools is that we can't be afraid to think big.
 
 Why does the idea of training millions of people in emerging tech coding seem like wishful thinking? Because just like our first attempts to revolutionize agricultural training, our solutions so far aren't up to the challenge. For example:
 
