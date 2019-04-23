@@ -24,8 +24,7 @@ At the beginning of a selected community tech class, the teacher would say to th
 
 Every few weeks, the teacher asks the students to briefly reflect on their experiences so far. For example, they might discuss which concepts they had the hardest time understanding. They might also brainstorm how to teach those concepts so they're easier to understand -- e.g., metaphors/examples from everyday life to clarify the concept, or a quick and dirty exercise to make it easier to understand. They might even split into pairs or small groups and briefly practice using one of the strategies they'd come up with. Then together they would write up their suggestions for future trainers.
 
-At the end of the cohort's class, the teacher could lead them to an exercise where they discussed questions such as:
-
+At the end of the cohort's class, the teacher could lead them through an exercise where they discussed questions such as:
 
 - How we can make this training better for the next group of students?
 - Can we make it easier for people to get their feet wet before they take this class? 
@@ -53,18 +52,18 @@ Story circles are a strategy some community groups use as part of building commu
 
 > The stories we’re able to tell ourselves and others, those we can understand and imagine, define not only what we believe to have already occurred, but what we believe to be possible in our individual and collective lives.
 
-The basic idea of a story circle is simple: a small group of people set in a circle and share stories about their experience on a given topic or theme. But given that many people in communities written off by society aren't used to having their story and their voice taken seriously, this simple act can have a profound impact.
+The basic idea of a story circle is simple: a small group of people sit in a circle and share stories about their experience on a given topic or theme. But given that many people in communities written off by society aren't used to having their story and their voice taken seriously, this simple act can have a profound impact.
 
 Here's how story circles might be intertwined with learning to code:
 
 1) In the first workshop, a group of adults meet for a Friday night and half of a Saturday. 
 
-- On Friday night, first they participate in a story circle, then they learn how to use one simple coding technique to try to very simply express their story in AR/VR. For example, each participant comes up with 3 words that sums up their story, then creates a VR page that displays their 3 words using a simple special effect that requires a tiny bit of coding -- e.g., having the 3 words fade in (exactly what they would do would depend on the tool & coding environment they were using). 
+- On Friday night, first they participate in a story circle, then they learn how to use one simple coding technique to try to very simply express their story in AR/VR. For example, each participant comes up with 3 words that sums up their story, then creates a VR page that displays their 3 words using a simple special effect that requires a tiny bit of coding -- e.g., having the 3 words fade in (exactly what they would do would depend on the tool and coding environment they were using). 
 - On Saturday, they add a few tools to their storytelling toolbox -- e.g., code for adding a picture and allowing users to interact with it -- so they can create the first version of their story. The workshop alternates between a little instruction, a lot of playing and experimenting with code, and reflecting on the experience of using the tools and how they might be designed differently to make them easier to use for folks in their community. 
 
 2) The group continues to meet for a few shorter Saturday sessions that take place every other week. 
 
-- Each time they learn one or two more coding techniques, a little more about VR/AR design & how to tell a story, and reflect about the experience so far. In doing so, they also build the trust and community they need to help them get over any fears, which is often half the battle.  
+- Each time they learn one or two more coding techniques, a little more about VR/AR design and how to tell a story, and reflect about the experience so far. In doing so, they also build the trust and community they need to help them get over any fears, which is often half the battle.  
 - In between these sessions, they work on their own or with coding buddies on their coding skill and their story
 - After the first few sessions, they would also begin to discuss how AR/VR could be used to help their community, what the future of emerging tech might look like, and how that future could be shaped so it benefits all communities (see the next chapter for some topics they might discuss).
  
@@ -72,10 +71,10 @@ Here's how story circles might be intertwined with learning to code:
 
 As they gradually gained some confidence around the idea of being tool makers as well as tool users, they would also be asked to start having discussions, brainstorming sessions, and story circles around questions such as:
 
-- Imagine this system was designed for people you know who spent most of their lives working with their hands and feel uncomfortable/nervous about the idea of making a living from coding. Tell me a story about what it would be like to use this system if it had been designed from the ground up by everyday folks who were used to working with their hands? 
-- Suppose the people who built this system wanted home care workers to become augmented/virtual reality "power users." Tell me some stories about how they would use it and what their experience would be when they first got started, as they began to become skilled, etc.?  Next, imagine there's a way they can make some money on the side through what they create. What might that look like? What are some values we might want to design it around? What are some issues you think such a market/system might need to overcome?
+- Imagine this system was designed for people you know who spent most of their lives working with their hands and feel uncomfortable or nervous about the idea of making a living from coding. Tell me a story about what it would be like to use this system if it had been designed from the ground up by everyday folks who were used to working with their hands? 
+- Suppose the people who built this system wanted home care workers to become augmented/virtual reality "power users." Tell me some stories about how they would use it and what their experience would be when they first got started, as they began to become skilled, etc.?  Next, imagine there's a way they can make some money on the side through what they create. What might that look like? What are some values we might want to design it around? What are some issues you think such a market or system might need to overcome?
  
-By the end of the class, those who want to continue should be able to start meeting on their own as a group (a.k.a. a Band of Brothers and Sisters). Their group could not only begin to get help from but also begin to help others through a network of other folks around the country who've gone through a similar experience and who -- with occasional help from world-class techies from around the globe --  have been helping to shape the path people take to keep improving their skills. Perhaps a few of them will decide to help teach the next set of workshops. And perhaps their group will join others in their community and in other communities in helping to begin building the equivalent of Extension Services for emerging tech and begin having conversations about how we might begin to shape the emerging tech economy so that every community would benefit.
+By the end of the class, those who want to continue should be able to start meeting on their own as a group (a.k.a. a Band of Brothers and Sisters). Their group could get and provide assistance to others through a network of other folks around the country who've gone through a similar experience and who -- with occasional help from world-class techies from around the globe --  have been helping to shape the path people take to keep improving their skills. Perhaps a few of them will decide to help teach the next set of workshops. And perhaps their group will join others in their community and in other communities in helping to begin building the equivalent of Extension Services for emerging tech and begin having conversations about how we might begin to shape the emerging tech economy so that every community would benefit.
  
 
 <br/>Next: [How Emerging Tech Will Transform Our Economy Over The Next 20-30 Years](40-et-economy.html)

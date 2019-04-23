@@ -9,7 +9,7 @@ Social change is a team sport; if you're going to succeed, you'll need to form a
 
 Then begin having discussions, asking questions, figuring out what you agree on and don't, what you know and don't know, and educating yourselves. And start small, but keep your eye on the prize. Bringing about a transformation on the scale that's necessary is about a dance between big goals and little steps, about dreaming big without ever letting your group's ambitious goals overwhelm you.
 
-When you first get started, there are 3 steps your group will need to take: envision, map out the terrain, and start learning by doing. Odds are you'll end up cycling through these steps more than once.
+When you first get started, there are three steps your group will need to take: envision, map out the terrain, and start learning by doing. Odds are you'll end up cycling through these steps more than once.
 
 ## 1) Envision
 

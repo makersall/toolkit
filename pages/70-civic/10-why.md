@@ -1,14 +1,12 @@
 ---
 layout: content
 title: Why Training In Civic Engagement?
-# image: ducks-cup-577341-pxh.jpg
-# image: toy-dinosaurs-1451431-pxh.jpg
 image: toy-cars-886135-pxh.jpg
 ---
 
-Neil Gershenfeld, director of MIT's Center for Bits and Atoms, oversees a wildly ambitious 50 year research project in digital fabrication whose ultimate goal is to create the equivalent of Star Trek's replicator. A few years ago, he had a [surprising revelation](https://www.edge.org/conversation/neil_gershenfeld-digital-reality):  they'd figured out the technological roadmap to build replicators, and although it would take several decades to work their way down that road, it wasn't as technically daunting as he'd expected.
+Neil Gershenfeld, director of MIT's Center for Bits and Atoms, oversees a wildly ambitious 50 year research project in digital fabrication whose ultimate goal is to create the equivalent of Star Trek's replicator. A few years ago, he had a [surprising revelation](https://www.edge.org/conversation/neil_gershenfeld-digital-reality):  they'd figured out the technological roadmap to build replicators, and although it would take several decades to work their way down that road, the technical issues weren't the biggest hurdle.
 
-> Now, the biggest surprise for me in this is I thought the research was hard.... Lots of work to come, but we know what to do.... That's humming along nicely. It's that we're finding we have to build a completely new kind of social order, and that social entrepreneurship—figuring out how you live, learn, work, play—is hard.
+> We're finding we have to build a completely new kind of social order, and that social entrepreneurship—figuring out how you live, learn, work, play—is hard.
 
 As result, in 2017 he and his brothers Alan and Joel decided to write a book to kickstart a public debate about the impact of digital fabrication on society. [They wanted](http://designingreality.org) to make sure we didn't make the same mistake we'd made with the Internet and personal computing.
 
@@ -24,7 +22,7 @@ Digital fabrication isn't the only field that's going to create unprecedented ch
 
 Imagine a future in which robots and AI, augmented and virtual reality, digital fabrication, wearables, and other emerging technologies have become ubiquitous.  Because we've implemented the strategies described in Part 1 and Part 2, many people in every community are now working in emerging tech, developing designs for digitally fabricating sneakers or creating robot "recipes" for painting a home's interior.  In this new economy, the answers to questions about how emerging tech markets should be structured could have a deep and profound impact on which communities and individuals prosper. 
 
-Today, only a handful of people have a say in answering questions like these.  Equally importantly, few people understand the issues well enough to meaningfully have a say. This is particularly a problem given that many of these decisions won't get made in public by politicians, they'll be made behind the scenes by people in the tech world as they create standards, informal norms, etc.
+Today, only a handful of people have a say in answering questions like these.  Equally importantly, few people understand the issues well enough to meaningfully have a say. This is particularly a problem given that many of these decisions won't get made in public by politicians; they'll be made behind the scenes by people in the tech world as they create standards, informal norms, etc.
 
 If we want more than a handful of people to shape the rules of the emerging tech road, we must ensure that as many people as possible in every community learn not only the technical skills but also the civic skills needed to truly participate. In Part 3, we will draw lessons from Citizenship Schools' experience teaching civic engagement, explore the implications of these lessons for emerging tech civic training, and provide a brief overview of some of the economic questions emerging tech will raise in the coming years.
 

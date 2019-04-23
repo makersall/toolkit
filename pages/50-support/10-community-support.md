@@ -4,7 +4,7 @@ title: Ground Tech Education And Support In The Community
 # image: hands-knitting-597586-pxh.jpg
 image: toy-community-2-666530-pxh.jpg
 ---
-Heart disease kills more men in the US than any other illness. High blood pressure is one of the biggest risk factors for it, and yet [according](https://www.nytimes.com/2018/05/21/upshot/what-barbershops-can-teach-about-delivering-health-care.html) to Doctor Aaron Carroll, "we have had a hard time getting patients to comply with recommendations and medications." A recent study targeting hard-to-reach patients tried to help them using a community-based strategy:
+Heart disease kills more men in the United States than any other illness. High blood pressure is one of the biggest risk factors for it, and yet [according](https://www.nytimes.com/2018/05/21/upshot/what-barbershops-can-teach-about-delivering-health-care.html) to Doctor Aaron Carroll, "we have had a hard time getting patients to comply with recommendations and medications." A recent study targeting hard-to-reach patients tried to help them using a community-based strategy:
 
 > Barbers screened patients, then handed them off to pharmacists who met with customers in the barbershops. They treated patients with medications and lifestyle changes according to set protocols, then updated physicians on what they had done.
 
@@ -26,7 +26,7 @@ Different types of communities will need a different set of strategies to help m
 
 ### Create Multiple On-Ramps
 
-For someone living in a community our society has written off, the idea of getting started in coding can be daunting. The obstacles you're facing can feel overwhelming. And if classes will put a big strain on your life because of the cost and time they require, how do you know it's worth the sacrifice? At this point, you don't even know if you like coding enough to want to do it for a living.
+For someone living in a community our society has written off, the idea of getting started in coding can be daunting. The obstacles they face can feel overwhelming. And if classes will put a big strain on your life because of the cost and time they require, how do you know it's worth the sacrifice? At this point, you don't even know if you like coding enough to want to do it for a living.
 
 That's why we need to create multiple on ramps. We need to go where people are, where they are surrounded by their peers, and create opportunities for them to get their feet wet.
 
@@ -44,7 +44,7 @@ In the play Our Town, when George tells Emily about his plans to become a farmer
 
 > Y'know, Emily, whenever I meet a farmer I ask him if he thinks it's important to go to Agricultural School to be a good farmer. Yeah, and some of them say it's even a waste of time. You can get all of those things, anyway, out of the pamphlets the government sends out.
 
-George is exaggerating a bit, but the idea wouldn't seem out of line to farmers in his time. Extension Services was created was because the system of Land Grant colleges that had been built to help spread modern agricultural practices through formal schooling couldn't reach enough people. Extension Services succeeded where Land Grant colleges failed because in virtually every county, it embedded one or more extension agents who built upon existing social networks and created new ones to create a massive infrastructure of informal peer to peer learning.
+George is exaggerating a bit, but the idea wouldn't seem out of line to farmers in his time. Extension Services was created because the system of Land Grant colleges that had been built to help spread modern agricultural practices through formal schooling couldn't reach enough people. Extension Services succeeded where Land Grant colleges failed because in virtually every county, it embedded one or more extension agents who built upon existing social networks and created new ones to create a massive infrastructure of informal peer-to-peer learning.
 
 Extension agents used a wide range of techniques to create an infrastructure for training and support:
 
@@ -57,7 +57,7 @@ Extension agents used a wide range of techniques to create an infrastructure for
 
 If we were to adapt the techniques used by Extension agents to the circumstances communities are facing today, we could substantially increase our ability to make emerging tech coding more accessible.
 
-This kind of community-based approach also has the potential to knock down obstacles that many are afraid we can't overcome. For example, some have argued that many people -- especially men -- who work in blue collar jobs won't want to become coders because their sense of identity is tied to working with their hands.  That's a huge problem for an outsider who's trying to convince them. But if someone who's resistant is being recruited by a natural leader they trust?  If they know they'll be making this transition surrounded by their peers who've also spent a lifetime working with their hands?  This is a much easier nut to crack.
+This kind of community-based approach also has the potential to knock down obstacles that many are afraid we can't overcome. For example, some have argued that many people -- especially men -- who work in blue collar jobs won't want to become coders because their sense of identity is tied to working with their hands.  That's a huge problem for an outsider who's trying to convince them. But if someone who's resistant is being recruited by a natural leader they trust, and if they know they'll be making this transition surrounded by their peers who've also spent a lifetime working with their hands, this is a much easier nut to crack.
 
 ## Building on Existing Efforts
 
@@ -110,13 +110,13 @@ Between waves of automation and waves of new tech, corporations are going to fac
 
 Staff in corporations and other large organizations don't have the same needs as people in the community. But there are many areas where they may overlap.  As communities are developing a rich ecosystem for their members, it may be worth exploring if there are ways to jointly address their needs. For example:
 
-__More Accessible Trainings for All__.  Trainings in a new technology are often intimidating for all but the most technically skilled staff. Because the tech is so new, the people who know it best are better at understanding the tech than they are at understanding how to teach beginners. But since community-oriented groups have to develop their emerging tech trainings so there accessible for everyday people, there's a good chance corporate staff who aren't skilled techies would also benefit from these trainings.  If corporations and other large local institutions invested in funding or providing staff to help develop these trainings, both the community and the world of work would benefit. There may even be ways to design trainings to facilitate this approach -- e.g., building trainings that are like playlists, so it's easy to mix & match parts to fit a particular audience.  
+__More Accessible Trainings for All__.  Trainings in a new technology are often intimidating for all but the most technically skilled staff. Because the tech is so new, the people who know it best are better at understanding the tech than they are at understanding how to teach beginners. But since community-oriented groups have to develop their emerging tech trainings so they're accessible for everyday people, there's a good chance corporate staff who aren't skilled techies would also benefit from these trainings.  If corporations and other large local institutions invested in funding or providing staff to help develop these trainings, both the community and the world of work would benefit. There may even be ways to design trainings to facilitate this approach -- e.g., building trainings that are like playlists, so it's easy to mix and match parts to fit a particular audience.  
 
-__More Friendly & Inviting Support Groups__. Many corporate and other organizational staff don't take advantage of tech meetups and other existing support groups they find them too intimidating. If a community is trying to create a more inviting support ecosystem, large organizations might find that their staff might also benefit from some facets of it.
+__More Friendly and Inviting Support Groups__. Many corporate and other organizational staff don't take advantage of tech meetups and other existing support groups because they find them intimidating. If a community is trying to create a more inviting support ecosystem, large organizations might find that their staff might also benefit from some facets of it.
 
 By exploring these possible overlaps between corporations and communities, we can also get more bang for the buck:
 
-- __Foster Informal Connections That Can Lead to Jobs, Opportunities to Create Wealth__.  The ecosystem support could spawn informal connections between people in the community and people working in corporations & nonprofits. These kinds of informal personal connections are a great way of finding good jobs -- especially given that many jobs are never advertised. Similarly, these informal personal connections will be an invaluable resource for fledgling community co-ops and small businesses.
+- __Foster Informal Connections That Can Lead to Jobs, Opportunities to Create Wealth__.  The ecosystem support could spawn informal connections between people in the community and people working in corporations and nonprofits. These kinds of informal personal connections are a great way of finding good jobs -- especially given that many jobs are never advertised. Similarly, these informal personal connections will be an invaluable resource for fledgling community co-ops and small businesses.
 - __Leverage More Resources__.  For corporations and other large organizations, embracing a community-oriented ecosystem support is a twofer. They get to give back to the community, and their organization directly benefits from the resource they have helped to create. 
 - __Provide a Bridge for Thinking through Learning-Work Connection__.  The other function this connection could serve is to provide a space that will encourage thinking through the connection between learning, support, and work. That's the subject of the next chapter.
 

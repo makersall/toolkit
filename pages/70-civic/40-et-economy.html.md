@@ -23,11 +23,11 @@ For example, our economy is based on the assumption that when businesses grow, m
 As a result, we need to start asking questions such as:
 
 - How do we ensure everyone has financial security in a world where people may not be able to depend on having work?
-- Should people whose work is being automated away have some say in the process, and if so how?
+- Should people whose work is being automated away have some say in the process, and if so, how?
 - Should we try to create incentives so we automate away much of the work that no one wants to do? 
 - As a society, do we want to ensure that the enormous profits and wealth that are being produced by automation help everyone? For example:
-- Should we try to move towards an economy where most people don't have to work full time unless they want to? 
-- Do we want to try to give everyone a real opportunity to express their creativity and explore their full potential? 
+  - Should we try to move towards an economy where most people don't have to work full time unless they want to? 
+  - Do we want to try to give everyone a real opportunity to express their creativity and explore their full potential? 
 
 For most people, these questions don't have simple or easy answers. That's why it's crucial that we start creating space in our society to begin exploring them. As the Gershenfeld brothers argue at the beginning of Part 3, if we wait too long before asking these questions, it may be too late for our answers to matter.
 
@@ -42,9 +42,9 @@ In an economy increasingly dominated by emerging tech, often the greatest econom
 - A design for digitally fabricating a comfy chair
 - The patent for sensors that allow a robot to etch innovative patterns on glass -- and the design and code that lets anyone digitally fabricate that sensor
 
-Unlike physical objects, the cost of making a copy of a digital creative work for someone else is close to zero.  
+Unlike physical objects, the cost of making a copy of a digital creative work is close to zero.  
 
-We can already get a glimpse of the potential of an economy where digital creative works are central and are easily available: 
+We can already get a glimpse of the potential of an economy where digital creative works are central and easily available: 
 
 - If you want to learn a new skill, odds are there dozens of tutorials freely available on YouTube.
 - Many recent AI breakthroughs have been driven by techniques known as "deep learning," which spread rapidly because both the ideas behind it and the open source programming libraries for implementing it are freely available. 
