@@ -31,6 +31,6 @@ While we certainly wouldn't expect all venture capitalist funds to embrace techn
 - __Shape Student Startup Culture__. For colleges and universities whose computer science departments teach their students how to create startups, if they encouraged community-oriented coding UX and other strategies for smoothing the learning curve, it could substantially speed up the adoption of these techniques.
 - __Leverage University Resources__. Colleges and universities are especially well situated to have an impact, because not only do they train many of the students who will create startups and go to work at tech companies, but they also create research on UX techniques and coding UX. Many colleges have agriculture extension services as well as researchers and centers who have extensive experience collaborating with the community.  If they leverage all of these resources, they can provide a much richer experience for their students, who will go on to help shape tech industry culture.
 
-<br/> Next: [Get Coding UX Research Out Of Its Silo](30-evangelize-research.html)
+<br/>Last: [Get Coding UX Research Out Of Its Silo](30-evangelize-research.html)
 <br/>Next: [Strategy #2: Create a Community-Based Ecosystem of Training Support](../50-support/00-index.html) 
 <br/>Up: [Smooth the Learning Curve](00-index.html)

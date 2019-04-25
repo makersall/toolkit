@@ -3,7 +3,13 @@
 
 /* Test to make sure this is working */
   h2 {      
+    padding-top: 18px;
+    /* padding-bottom: 0px; */
       /* color: red; */
+  }
+
+  h3 {
+    padding-top: 6px;
   }
 
 

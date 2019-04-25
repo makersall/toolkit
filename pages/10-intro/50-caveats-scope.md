@@ -12,11 +12,11 @@ The problems we face in attempting to truly democratize emergent tech are far to
 
 Makers All is focused on addressing the needs of adults, not children. There are 3 reasons for this decision:
 
-1) From Black Girls Code to code.org to AI4ALL, there are already many groups doing terrific work focused on the needs of children.  
+1) From [Black Girls Code](http://www.blackgirlscode.com/) to [code.org](https://code.org/) to [AI4ALL](http://ai-4-all.org/), there are already many groups doing terrific work focused on the needs of children.  
 
 2) When it comes to children, it's less necessary to advocate for the report's ideas because some of these ideas are already being implemented.  For example:
 
-- As we will see in our discussion of [Strategy #1](../30-smooth/05-why.html), there's plenty of work being done on improving coding UX for kids
+- As we will see in our discussion of [Strategy #1](../30-smooth/00-index.html), there's plenty of work being done on improving coding UX for kids
 - Most children are already enmeshed in a variety of community networks, from school to after-school clubs to church programs, and some of these networks are encouraging kids to get involved in coding and design
 
 3) Adults and children have very different needs. For example:

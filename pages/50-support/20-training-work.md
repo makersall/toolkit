@@ -71,7 +71,6 @@ Over time this approach could help to bootstrap local tech scenes. For example, 
 
 There's no way to know in advance if this strategy would succeed on a scale that would be effective. And this approach would have to be careful not to substitute one problem for another -- e.g., making these communities overly dependent on large outside companies, whose needs could easily change. But given the needs of both parties, it's well worth trying.
  
-
 ### Use the Government to Bootstrap the Process
 
 If large tech companies and multinationals can't play this role in enough communities, we should explore having the government step in.
