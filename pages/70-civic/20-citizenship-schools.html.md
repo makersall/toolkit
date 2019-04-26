@@ -2,6 +2,7 @@
 layout: content
 title: What Citizenship Schools Can Teach Us
 image: citizenship-school-brobinson.jpg
+image-citation: 'Photo by  <a href="https://www.crmvet.org">Civil Rights Movement Veterans</a>'
 ---
 In the 1950s and early 60s, one of the major challenges the Civil Rights Movement faced in the Deep South was that voter suppression laws barred anyone from voting unless they could read and write. How could the movement help enough African-Americans become literate quickly enough to build political power -- especially in an environment where any efforts by African-Americans to win the right to vote might be violently suppressed? The solution: Citizenship Schools.
 

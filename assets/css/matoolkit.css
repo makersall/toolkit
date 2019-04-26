@@ -17,6 +17,11 @@
   padding-bottom: 20px;
 } 
 
+.main-image-citation {
+  font-style: italic;
+  font-size: 80%;
+}
+
 /* .summary-image {
     padding-bottom: 20px;
   } */

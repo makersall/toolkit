@@ -2,8 +2,8 @@
 layout: content
 title: 'Lessons from Our Past: Cooperative Extension Services and Citizenship Schools'
 image: extension-rutgers.png
+image-citation: 'Photo by  <a href="https://njaes.rutgers.edu/extension/history/">New Jersey Agricultural Experimentation Station</a>'
 ---
-{Add photo citation }
 ## The Agricultural Challenge
 This isn't the first time we've faced the daunting task of training millions of adults to master a complex technological skill. 
 In the late 19th and early 20th century, the US faced a similar challenge to the one posed by Emerging Tech today. 
