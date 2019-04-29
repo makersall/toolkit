@@ -9,7 +9,7 @@ Once your group has made some progress, you'll need an iterative approach that h
 
 - __Expand the Circle__. As your project begins to rack up some small successes, what other parts of the community do you want to invite to become partners? Or you may do the reverse -- for example, develop some proofs of concept that will help others wrap their heads around what you are trying to accomplish, then bring in more facets of the community and encourage them to assume leadership roles.
 - __Stay Inclusive__. How do you ensure that as you grow all facets of your community are represented?
-__Develop Leaders__. As Part 3's overview of Citizenship Schools demonstrated, identifying and training new leaders is a crucial part of building a vibrant grassroots movement. As you grow, you'll need to start incorporating leadership development into your plans if you haven't already. 
+- __Develop Leaders__. As Part 3's overview of Citizenship Schools demonstrated, identifying and training new leaders is a crucial part of building a vibrant grassroots movement. As you grow, you'll need to start incorporating leadership development into your plans if you haven't already. 
 
 ## Scaling Up
 

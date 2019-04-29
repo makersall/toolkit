@@ -6,7 +6,7 @@ image: frog-panther-upside-down-574377-pxh.jpg
 
 Although tech companies will need to be involved in community-wide efforts, they also have a distinct role to play.  If you work for a tech company that wants to make the tech you develop more accessible, here's what you and other people at your company can do. 
 
-__Building Relationships to Develop Community-Oriented UX__
+### Building Relationships to Develop Community-Oriented UX
 
 The first thing you'll want to do is to start exploring how to implement community-oriented UX.
 
@@ -20,12 +20,9 @@ There are 2 keys to making this partnership work:
 
 Once you've figured out the right Tech and the right partner(s), you want to start your collaboration with a pilot project. The goal of the pilot is to get your feet wet and start learning how to do community-oriented UX in a way that works for everyone involved. If you're ready, it also might be worth considering using these first baby steps as a chance to begin conversations about the possibility of hiring one or more community groups as community-oriented UX consultants once they've gained some expertise.
 
-__Small Startups__
-For small startups, the situation is more complicated. Most startups don't have the kind of resources that a larger shop has -- and there's a good chance they don't have any relationships in the community to start from. But it's still worth exploring to see if there are ways you can build a partnership.
+__Small Startups__.  For small startups, the situation is more complicated. Most startups don't have the kind of resources that a larger shop has -- and there's a good chance they don't have any relationships in the community to start from. But it's still worth exploring to see if there are ways you can build a partnership.
 
- 
-__Be Flexible__
-All of the above is meant only as a guide; you'll need to adapt it to your circumstances. For example, it may take some time before you'll figure out the right community partners. In the meantime, there's no reason you couldn't start working on smoothing the learning curve. In the experience of this report's author, many emerging tech frameworks, etc. have glaring UX shortfalls -- issues where anyone with experience teaching coding to non-techie adults could point out a number of problems that could be fixed even before you start using formal UX techniques.
+__Be Flexible__.  All of the above is meant only as a guide; you'll need to adapt it to your circumstances. For example, it may take some time before you'll figure out the right community partners. In the meantime, there's no reason you couldn't start working on smoothing the learning curve. In the experience of this report's author, many emerging tech frameworks, etc. have glaring UX shortfalls -- issues where anyone with experience teaching coding to non-techie adults could point out a number of problems that could be fixed even before you start using formal UX techniques.
 
 <br/>Next: [Use the Economic Leverage We Build to Help Others](40-helping.html)
 <br/>Last: [Scale Up](20-scaling-up.html)
