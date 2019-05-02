@@ -5,7 +5,7 @@ layout: home
 <img src="{{'/assets/images/makers-all-banner.png'  | relative_url }} ">
 
 
-#  UNDER CONSTRUCTION, LAUNCHING MAY 9 
+#  * * UNDER CONSTRUCTION, LAUNCHING MAY 9 * *
 
 ## [The Threat and the Opportunity](pages/10-intro/10-threat-opportunity.html)
 Will robots/AI destroy millions of jobs? Will they create massive inequality? [These threats are real](pages/10-intro/10-threat-opportunity.html), but we've focused so much on them that we've overlooked a once-in-a-century [opportunity](pages/10-intro/10-threat-opportunity.html#opportunity).
