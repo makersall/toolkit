@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pixes
+title: Pixes I Might End up Using
 permalink: /pix/
 pictures:
   - Getting Started 
