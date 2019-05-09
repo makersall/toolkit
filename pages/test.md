@@ -1,7 +1,7 @@
 ---
 layout: test
 title: About
-image: 'Makers-All-Butterfly.png'
+image: 'makers-all-banner.png'
 ---
 
 Interested in learning about or trying out [Makers All](https://makersall.org/)'s strategies? This toolkit can help you out.
