@@ -52,6 +52,8 @@ In doing so, it could offer communities additional benefits:
 - __Early Access to Cutting-Edge Hardware__. As part of the UX studies, tech companies would give some members of marginalized communities early access to emerging tech hardware that they otherwise couldn't afford. And that in turn could give people in these communities a chance to get involved in emerging tech in an early stage where mastering the tech before it's widespread can open up new opportunities.
 - __From Tool Users to Tool Makers__.  Community-oriented coding UX could shift the perspective of coding beginners. Rather than seeing themselves as people who just use tools, they would also be involved in making them. Community groups could even explore modifying their trainings so that part of the learning process is learning how to evaluate and envision improving the coding experience for the next generation of coders in their community. 
 
+<div id="bottom-line"></div>
+
 ## Help Communities, Help Your Bottom Line
 
 Tech company CEOs are passionate about democratizing their technology because they care about society. But if they do it right, this approach will also help their company's bottom line.
